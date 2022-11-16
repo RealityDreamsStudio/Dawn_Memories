@@ -1,0 +1,1425 @@
+﻿Log file open, 05/17/21 11:07:56
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CityOfFear
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.501372
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DiscordMessenger
+LogPluginManager: Mounting plugin Replica
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin XRVisualization
+LogPluginManager: Mounting plugin Wwise
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.17-14.07.58:436][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.17-14.07.58:437][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:437][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:447][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:447][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.17-14.07.58:447][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.17-14.07.58:447][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:447][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.17-14.07.58:447][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:447][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.17-14.07.58:447][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.17-14.07.58:448][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.17-14.07.58:449][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.17-14.07.58:449][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.17-14.07.58:449][  0]LogHAL: Display: Platform has ~ 16 GB [17113944064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.17-14.07.58:449][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.17-14.07.58:449][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.05.17-14.07.58:449][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.17-14.07.58:450][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.17-14.07.58:451][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.17-14.07.58:452][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.17-14.07.58:452][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.17-14.07.58:452][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.17-14.07.58:452][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.17-14.07.58:452][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Editor.ini]
+[2021.05.17-14.07.58:452][  0]LogInit: Computer: DESKTOP-15US14O
+[2021.05.17-14.07.58:452][  0]LogInit: User: User
+[2021.05.17-14.07.58:452][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.17-14.07.58:452][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.17-14.07.58:452][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.17-14.07.58:452][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.17-14.07.58:452][  0]LogMemory: Process Physical Memory: 138.52 MB used, 138.53 MB peak
+[2021.05.17-14.07.58:452][  0]LogMemory: Process Virtual Memory: 119.47 MB used, 119.47 MB peak
+[2021.05.17-14.07.58:452][  0]LogMemory: Physical Memory: 9517.28 MB used,  6803.85 MB free, 16321.13 MB total
+[2021.05.17-14.07.58:452][  0]LogMemory: Virtual Memory: 134210928.00 MB used,  6802.70 MB free, 134217728.00 MB total
+[2021.05.17-14.07.58:460][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.17-14.07.58:506][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.17-14.07.58:506][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.05.17-14.07.58:507][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.05.17-14.07.58:705][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.17-14.07.58:833][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.17-14.07.58:843][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.17-14.07.58:843][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.17-14.07.58:967][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.17-14.07.58:967][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.17-14.07.58:967][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.17-14.07.58:967][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.17-14.07.59:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.05.17-14.07.59:079][  0]LogD3D11RHI:       3955/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.17-14.07.59:082][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.17-14.07.59:082][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.17-14.07.59:082][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.17-14.07.59:089][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.17-14.07.59:090][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.17-14.07.59:090][  0]LogWindows: EnumDisplayDevices:
+[2021.05.17-14.07.59:090][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.05.17-14.07.59:090][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.17-14.07.59:090][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.17-14.07.59:090][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.17-14.07.59:091][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.17-14.07.59:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.05.17-14.07.59:091][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.05.17-14.07.59:091][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.05.17-14.07.59:091][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.05.17-14.07.59:172][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.17-14.07.59:172][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.17-14.07.59:172][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.17-14.07.59:192][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.17-14.07.59:194][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.17-14.07.59:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.17-14.07.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.17-14.07.59:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.17-14.07.59:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.17-14.07.59:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.17-14.07.59:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.17-14.07.59:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.17-14.07.59:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.17-14.07.59:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.17-14.07.59:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.17-14.07.59:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.17-14.07.59:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.17-14.07.59:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.17-14.07.59:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.17-14.07.59:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.17-14.07.59:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.17-14.07.59:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.17-14.07.59:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.17-14.07.59:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.17-14.07.59:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.17-14.07.59:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.17-14.07.59:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.17-14.08.00:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.17-14.08.00:000][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.17-14.08.00:009][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.17-14.08.00:072][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.17-14.08.00:072][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Intermediate/Shaders/WorkingDirectory/10384/).
+[2021.05.17-14.08.00:072][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/B6273CCA4DC25DE45A2EA082D03992F6/'.
+[2021.05.17-14.08.00:072][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.05.17-14.08.00:885][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: Loaded boot cache 0.05s 88MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.17-14.08.00:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.17-14.08.00:947][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.17-14.08.00:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.17-14.08.00:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.17-14.08.01:004][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.05.17-14.08.01:004][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=248.04MBs, RandomWriteSpeed=17.66MBs. Assigned SpeedClass 'Local'
+[2021.05.17-14.08.01:005][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.17-14.08.01:005][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.17-14.08.01:005][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.17-14.08.01:055][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.17-14.08.01:055][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.17-14.08.01:079][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.05.17-14.08.01:309][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.17-14.08.01:309][  0]LogInit: Active device profile: [000001DD660FA200][000001DD66E716C0 49] Windows
+[2021.05.17-14.08.01:309][  0]LogInit: Profiles: [000001DD660FA200][000001DD66E716C0 49] Windows, [000001DD66091A00][000001DD66E75800 49] WindowsNoEditor, [000001DD660FAF00][000001DD66E79940 49] WindowsServer, [000001DD66092500][000001DD66E7DA80 49] WindowsClient, [000001DD660F8F00][000001DD66E81BC0 49] IOS, [000001DD66091100][000001DD66E89D40 49] iPadAir, [000001DD660F9C00][000001DD66E8C200 49] iPadAir2, [000001DD67435E00][000001DD66E944C0 49] IPadPro, [000001DD67435F00][000001DD66E90500 49] iPadAir3, [000001DD66090500][000001DD66E98680 49] iPadAir4, [000001DD67437700][000001DD66E9C800 49] iPadMini2, [000001DD66092800][000001DD66EA0980 49] iPadMini3, [000001DD67435400][000001DD66EA4B00 49] iPadMini4, [000001DD66091700][000001DD66EA8C80 49] iPadMini5, [000001DD67465500][000001DD66EB0F40 49] iPhone6, [000001DD67465600][000001DD66EACF80 49] iPodTouch6, [000001DD67434F00][000001DD66EB9240 49] iPhone7, [000001DD67434E00][000001DD66EB5280 49] iPodTouch7, [000001DD67466D00][000001DD66EBD400 49] iPhone5S, [000001DD67436A00][000001DD66EC1580 49] iPhone6Plus, [000001DD67467E00][000001DD66EC5700 49] iPhone6S, [000001DD67434100][000001DD66EC9880 49] iPhone6SPlus, [000001DD67464700][000001DD66E859C0 49] iPhone7Plus, [000001DD67434A00][000001DD66ED1B00 49] iPhoneSE, [000001DD67466500][000001DD66EE9C40 49] iPhone8, [000001DD67435500][000001DD66EF0100 49] iPhone8Plus, [000001DD67464200][000001DD66EF4280 49] iPhoneX, [000001DD67436900][000001DD66EF8400 49] iPhoneXS, [000001DD67466000][000001DD66EFC580 49] iPhoneXSMax, [000001DD67435600][000001DD66F00700 49] iPhoneXR, [000001DD67464D00][000001DD66F04880 49] iPhone11, [000001DD67436500][000001DD66F08A00 49] iPhone11Pro, [000001DD67466300][000001DD66F0CB80 49] iPhone11ProMax, [000001DD67437F00][000001DD66F10D00 49] iPhoneSE2, [000001DD67465E00][000001DD66F14E80 49] iPhone12Mini, [000001DD67436F00][000001DD66F19000 49] iPhone12, [000001DD67465200][000001DD66F1D180 49] iPhone12Pro, [000001DD67434600][000001DD66F21300 49] iPhone12ProMax, [000001DD67467700][000001DD66F25480 49] iPadPro105, [000001DD660F8E00][000001DD66F29600 49] iPadPro129, [000001DD67464B00][000001DD66F2D780 49] iPadPro97, [000001DD660F8800][000001DD66F31900 49] iPadPro2_129, [000001DD67466900][000001DD66EEDA40 49] iPad5, [000001DD660FAE00][000001DD66F35B80 49] iPad6, [000001DD67465B00][000001DD66F39CC0 49] iPad7, [000001DD660FA500][000001DD66F40180 49] iPad8, [000001DD67467900][000001DD66F44300 49] iPadPro11, [000001DD660F8500][000001DD66F48480 49] iPadPro2_11, [000001DD67465400][000001DD66F4C600 49] iPadPro3_129, [000001DD660F9A00][000001DD66F50780 49] iPadPro4_129, [000001DD67465000][000001DD66F54900 49] AppleTV, [000001DD660FAB00][000001DD66F58A80 49] AppleTV4K, [000001DD67465900][000001DD67014C00 49] TVOS, [000001DD660F9300][000001DD67018D80 49] Mac, [000001DD67467D00][000001DD6701CF00 49] MacClient, [000001DD660F9900][000001DD67021080 49] MacNoEditor, [000001DD67467400][000001DD67025200 49] MacServer, [000001DD660F8600][000001DD67029380 49] Linux, [000001DD67466200][000001DD6702D500 49] LinuxAArch64, [000001DD660F9D00][000001DD67031680 49] LinuxNoEditor, [000001DD67466400][000001DD67035800 49] LinuxAArch64NoEditor, [000001DD660F8B00][000001DD67039980 49] LinuxClient, [000001DD67466A00][000001DD66F3DAC0 49] LinuxAArch64Client, [000001DD660F9500][000001DD6703DC00 49] LinuxServer, [000001DD67467C00][000001DD67041D40 49] LinuxAArch64Server, [000001DD660FA000][000001DD670441C0 49] Android, [000001DD67467000][000001DD6704C340 49] Android_Low, [000001DD660FA700][000001DD670504C0 49] Android_Mid, [000001DD67467800][000001DD67054640 49] Android_High, [000001DD660F8D00][000001DD670587C0 49] Android_Default, [000001DD67465C00][000001DD6705C940 49] Android_Adreno4xx, [000001DD660F8300][000001DD67060AC0 49] Android_Adreno5xx_Low, [000001DD67464600][000001DD67064C40 49] Android_Adreno5xx, [000001DD67434300][000001DD67068DC0 49] Android_Adreno6xx, [000001DD66092300][000001DD6706CF40 49] Android_Adreno6xx_Vulkan, [000001DD67436800][000001DD670710C0 49] Android_Mali_T6xx, [000001DD66090C00][000001DD67075240 49] Android_Mali_T7xx, [000001DD67434800][000001DD670793C0 49] Android_Mali_T8xx, [000001DD66092400][000001DD6707D540 49] Android_Mali_G71, [000001DD67434400][000001DD680916C0 49] Android_Mali_G72, [000001DD66091900][000001DD68095840 49] Android_Mali_G72_Vulkan, [000001DD67437900][000001DD680999C0 49] Android_Mali_G76, [000001DD66093900][000001DD67049B00 49] Android_Mali_G76_Vulkan, [000001DD67435200][000001DD6809DC40 49] Android_Mali_G77, [000001DD66090800][000001DD680A00C0 49] Android_Mali_G77_Vulkan, [000001DD67437600][000001DD680A4200 49] Android_Vulkan_SM5, [000001DD66090E00][000001DD680AC380 49] Android_PowerVR_G6xxx, [000001DD67435C00][000001DD680B0500 49] Android_PowerVR_GT7xxx, [000001DD66092900][000001DD680B4680 49] Android_PowerVR_GE8xxx, [000001DD67434200][000001DD680B8800 49] Android_PowerVR_GM9xxx, [000001DD66091300][000001DD680BC980 49] Android_PowerVR_GM9xxx_Vulkan, [000001DD67434C00][000001DD680C0B00 49] Android_TegraK1, [000001DD66093800][000001DD680C4C80 49] Android_Unknown_Vulkan, [000001DD67436300][000001DD680C8E00 49] Lumin, [000001DD66092F00][000001DD680CCF80 49] Lumin_Desktop, [000001DD67437400][000001DD680D1100 49] HoloLens, 
+[2021.05.17-14.08.01:423][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.17-14.08.01:423][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.17-14.08.01:423][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.17-14.08.01:423][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.17-14.08.01:423][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.17-14.08.01:521][  0]LogNetVersion: CityOfFear 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3763831798)
+[2021.05.17-14.08.03:417][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.17-14.08.04:069][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.651566 seconds
+[2021.05.17-14.08.04:074][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.05.17-14.08.04:074][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.05.17-14.08.04:074][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.17-14.08.04:877][  0]LogPython: Using Python 3.7.7
+[2021.05.17-14.08.06:115][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.05.17-14.08.06:164][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.17-14.08.06:168][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.17-14.08.06:504][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.06:732][  0]LogAkAudio: Wwise(R) SDK Version 2021.1.1 Build 7601. Copyright (c) 2006-2021 Audiokinetic Inc.
+[2021.05.17-14.08.06:769][  0]LogAkAudio: Wwise plug-in DLL path: C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/
+[2021.05.17-14.08.06:785][  0]LogAkAudio: Wwise remote connection application name: CityOfFear (Editor)
+[2021.05.17-14.08.06:785][  0]LogAkAudio: Wwise successfully initialized.
+[2021.05.17-14.08.06:810][  0]LogAkAudio: Error: Cannot open file: Init.bnk
+[2021.05.17-14.08.06:810][  0]LogAkAudio: Error: Bank Load Failed
+[2021.05.17-14.08.06:810][  0]LogAkAudio: Initialization complete.
+[2021.05.17-14.08.06:810][  0]LogInit: Audiokinetic Audio Device initialized.
+[2021.05.17-14.08.08:576][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.08:579][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.08:583][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.08:594][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.08:600][  0]LogUProjectInfo: Found projects:
+[2021.05.17-14.08.09:429][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.17-14.08.09:429][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.17-14.08.09:515][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.17-14.08.09:529][  0]LogCollectionManager: Loaded 0 collections in 0.001647 seconds
+[2021.05.17-14.08.09:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collections/' took 0.00s
+[2021.05.17-14.08.09:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Developers/User/Collections/' took 0.00s
+[2021.05.17-14.08.09:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Collections/' took 0.00s
+[2021.05.17-14.08.09:559][  0]LogOcInput: OculusInput pre-init called
+[2021.05.17-14.08.09:576][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.17-14.08.09:576][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.17-14.08.09:605][  0]LogWinDualShock: Error: Support Missing
+[2021.05.17-14.08.10:371][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.05.17-14.08.10:371][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.05.17-14.08.10:382][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.05.17-14.08.10:383][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.05.17-14.08.10:598][  0]LogEngine: Initializing Engine...
+[2021.05.17-14.08.10:607][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.17-14.08.10:608][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.17-14.08.10:611][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.05.17-14.08.10:959][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.17-14.08.11:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.17-14.08.11:024][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.17-14.08.11:029][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.17-14.08.11:029][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.17-14.08.11:030][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.17-14.08.11:030][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.17-14.08.11:030][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.17-14.08.11:043][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-14.08.11:043][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-14.08.11:075][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.17-14.08.11:080][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.17-14.08.11:081][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.17-14.08.11:081][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.17-14.08.11:082][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.17-14.08.11:082][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.17-14.08.11:082][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.17-14.08.11:083][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.17-14.08.11:083][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.17-14.08.11:083][  0]LogInit: FAudioDevice initialized.
+[2021.05.17-14.08.11:084][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.17-14.08.11:084][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.17-14.08.11:249][  0]LogDerivedDataCache: Saved boot cache 0.17s 88MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.17-14.08.11:251][  0]LogInit: Texture streaming: Enabled
+[2021.05.17-14.08.11:264][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.17-14.08.11:268][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.17-14.08.11:268][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.17-14.08.11:270][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.17-14.08.11:310][  0]LogInit: Transaction tracking system initialized
+[2021.05.17-14.08.11:332][  0]BlueprintLog: New page: Editor Load
+[2021.05.17-14.08.11:422][  0]LocalizationService: Localization service is disabled
+[2021.05.17-14.08.11:461][  0]TimingProfiler: Initialize
+[2021.05.17-14.08.11:461][  0]TimingProfiler: OnSessionChanged
+[2021.05.17-14.08.11:461][  0]LoadingProfiler: Initialize
+[2021.05.17-14.08.11:462][  0]LoadingProfiler: OnSessionChanged
+[2021.05.17-14.08.11:462][  0]NetworkingProfiler: Initialize
+[2021.05.17-14.08.11:462][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.17-14.08.11:462][  0]MemoryProfiler: Initialize
+[2021.05.17-14.08.11:462][  0]MemoryProfiler: OnSessionChanged
+[2021.05.17-14.08.11:626][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.17-14.08.11:626][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.17-14.08.11:764][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/' took 0.03s
+[2021.05.17-14.08.12:464][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.17-14.08.12:467][  0]SourceControl: Source control is disabled
+[2021.05.17-14.08.12:467][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.866
+[2021.05.17-14.08.12:467][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.17-14.08.12:516][  0]LightingResults: New page: Lighting Build
+[2021.05.17-14.08.12:519][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.17-14.08.12:519][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.17-14.08.12:519][  0]MapCheck: New page: Map Check
+[2021.05.17-14.08.12:519][  0]LightingResults: New page: Lighting Build
+[2021.05.17-14.08.12:531][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.05.17-14.08.19:837][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.17-14.08.19:838][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.17-14.08.25:278][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.17-14.08.25:364][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.17-14.08.25:364][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.17-14.08.25:364][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2021.05.17-14.08.25:364][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.897
+[2021.05.17-14.08.25:365][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.05.17-14.08.25:400][  0]LogAssetRegistry: Asset discovery search completed in 0.0354 seconds
+[2021.05.17-14.08.25:692][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.05.17-14.08.25:693][  0]LogUnrealEdMisc: Total Editor Startup Time, took 35.092
+[2021.05.17-14.08.25:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.17-14.08.25:962][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3844 classes and 932 folders.
+[2021.05.17-14.08.26:009][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.17-14.08.26:152][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.17-14.08.26:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.17-14.08.26:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.17-14.08.26:171][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.17-14.08.26:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.17-14.08.26:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.17-14.08.26:189][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.17-14.08.26:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.17-14.08.26:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.17-14.08.26:237][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.17-14.08.26:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.17-14.08.26:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.17-14.08.26:255][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.17-14.08.26:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.17-14.08.26:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.17-14.08.26:268][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.17-14.08.26:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.17-14.08.26:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.17-14.08.26:279][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.17-14.08.26:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.17-14.08.26:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.17-14.08.26:302][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.17-14.08.26:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.17-14.08.26:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.17-14.08.26:323][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.17-14.08.26:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.17-14.08.26:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.17-14.08.26:335][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.17-14.08.26:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.17-14.08.26:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.17-14.08.26:349][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.17-14.08.26:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.17-14.08.26:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.17-14.08.26:367][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.17-14.08.26:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.17-14.08.26:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.05.17-14.08.26:382][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.17-14.08.26:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.17-14.08.26:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.05.17-14.08.26:408][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.17-14.08.26:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.17-14.08.26:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.05.17-14.08.26:430][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.17-14.08.26:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.17-14.08.26:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.17-14.08.26:468][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.17-14.08.26:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.17-14.08.26:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.17-14.08.26:484][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.17-14.08.26:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.17-14.08.26:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.05.17-14.08.26:510][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.17-14.08.26:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.17-14.08.26:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.05.17-14.08.26:525][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.17-14.08.26:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.17-14.08.26:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.05.17-14.08.26:554][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.17-14.08.26:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.17-14.08.26:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.05.17-14.08.26:569][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.17-14.08.26:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.17-14.08.26:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.05.17-14.08.26:589][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.17-14.08.26:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.17-14.08.26:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.05.17-14.08.26:614][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.17-14.08.26:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.17-14.08.26:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.05.17-14.08.26:667][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.17-14.08.26:668][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:668][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.17-14.08.26:668][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.05.17-14.08.26:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.17-14.08.26:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.17-14.08.26:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.05.17-14.08.26:768][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.17-14.08.26:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.17-14.08.26:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.17-14.08.26:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.05.17-14.08.37:506][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.17-14.08.37:509][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.17-14.08.37:749][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.17-14.08.37:752][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.17-14.08.37:812][  0]LogSlate: Took 0.054976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.17-14.08.38:303][  0]LogRenderer: Reallocating scene render targets to support 1180x580 Format 9 NumSamples 1 (Frame:1).
+[2021.05.17-14.08.38:463][  0]LogSlate: Took 0.098876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.17-14.08.38:608][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.17-14.08.38:608][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.17-14.08.38:608][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.17-14.08.38:608][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.17-14.08.38:608][  0]LogLoad: (Engine Initialization) Total time: 48.01 seconds
+[2021.05.17-14.08.38:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.17-14.08.38:608][  0]LogInit: First time updating LLM stats...
+[2021.05.17-14.08.38:949][  0]LogWinDualShock: Input Device Created
+[2021.05.17-14.08.39:072][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.05.17-14.08.39:149][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.05.17-14.24.00:058][320]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.17-14.24.04:529][719]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2021.05.17-14.24.08:521][ 96]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2021.05.17-14.24.10:046][272]Cmd: TRANSACTION UNDO
+[2021.05.17-14.24.10:046][272]LogEditorTransaction: Undo Move Actors
+[2021.05.17-14.24.10:146][272]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.17-14.24.10:832][293]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2021.05.17-14.24.23:605][638]Cmd: TRANSACTION UNDO
+[2021.05.17-14.24.23:605][638]LogEditorTransaction: Undo Set Location
+[2021.05.17-14.25.58:771][907]LogSlate: Took 0.018001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.17-14.26.16:876][948]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.17-14.26.24:078][651]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.17-14.27.24:038][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.17-14.27.24:554][717]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/ThirdPersonExampleMap_Auto1E1FB2A6E4099F6C54C09E8B0601536C0.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.05.17-14.27.24:568][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.543
+[2021.05.17-14.27.24:568][717]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.543
+[2021.05.17-14.29.44:394][166]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.17-14.31.00:192][726]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.17-14.31.01:042][815]Cmd: DELETE
+[2021.05.17-14.31.01:043][815]Cmd: ACTOR DELETE
+[2021.05.17-14.31.01:301][815]LogEditorActor: Deleted Actor: Brush
+[2021.05.17-14.31.01:345][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.17-14.31.01:485][815]LogEditorActor: Deleted 1 Actors (0.270 secs)
+[2021.05.17-14.37.24:869][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.17-14.37.25:118][752]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/ThirdPersonExampleMap_Auto249259D69421B35B062F2D998AA324A3C.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.05.17-14.37.25:120][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.265
+[2021.05.17-14.37.25:120][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2021.05.17-14.46.52:434][443]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.05.17-14.46.52:434][443]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.46.52:435][443]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.05.17-14.46.53:443][446]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ed44fa16-2994-47c3-b662-b17195889e4a}.
+[2021.05.17-14.46.53:443][446]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.46.53:443][446]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.05.17-14.46.53:467][446]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-14.46.53:467][446]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-14.46.53:802][447]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.05.17-14.46.53:802][447]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.46.53:810][447]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.05.17-14.47.03:232][473]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ed44fa16-2994-47c3-b662-b17195889e4a}.
+[2021.05.17-14.47.03:232][473]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.47.03:232][473]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.05.17-14.47.03:245][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-14.47.03:245][473]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-14.47.07:264][485]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.05.17-14.47.07:264][485]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.47.07:265][485]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.05.17-14.47.14:670][507]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ed44fa16-2994-47c3-b662-b17195889e4a}.
+[2021.05.17-14.47.14:670][507]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.17-14.47.14:670][507]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.05.17-14.47.14:704][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.17-14.47.14:704][507]LogAudioMixer: Display: 1: FrontRight
+[2021.05.17-14.51.35:438][285]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.17-14.56.47:860][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:861][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:862][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:864][214]LogLinker: Warning: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:865][214]LogLinker: Warning: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:871][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:887][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_90
+[2021.05.17-14.56.47:888][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:888][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_91
+[2021.05.17-14.56.47:889][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:889][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_92
+[2021.05.17-14.56.47:889][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:889][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_14
+[2021.05.17-14.56.47:890][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:890][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_25
+[2021.05.17-14.56.47:890][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:890][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_1
+[2021.05.17-14.56.47:891][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:891][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_22
+[2021.05.17-14.56.47:892][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:892][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_28
+[2021.05.17-14.56.47:892][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:892][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_2
+[2021.05.17-14.56.47:893][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:893][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_33
+[2021.05.17-14.56.47:893][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:893][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_21
+[2021.05.17-14.56.47:894][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:894][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_3
+[2021.05.17-14.56.47:894][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:894][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_34
+[2021.05.17-14.56.47:895][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:895][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_31
+[2021.05.17-14.56.47:895][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:895][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_4
+[2021.05.17-14.56.47:895][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:895][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_35
+[2021.05.17-14.56.47:896][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:896][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_16
+[2021.05.17-14.56.47:896][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:896][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_5
+[2021.05.17-14.56.47:896][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:896][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_93
+[2021.05.17-14.56.47:897][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:897][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_37
+[2021.05.17-14.56.47:897][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:897][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_38
+[2021.05.17-14.56.47:897][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:897][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_39
+[2021.05.17-14.56.47:898][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:898][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_40
+[2021.05.17-14.56.47:898][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:898][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_41
+[2021.05.17-14.56.47:898][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:898][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_94
+[2021.05.17-14.56.47:899][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:899][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_24
+[2021.05.17-14.56.47:899][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:899][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_27
+[2021.05.17-14.56.47:899][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:899][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_20
+[2021.05.17-14.56.47:900][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:900][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_30
+[2021.05.17-14.56.47:900][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:900][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_13
+[2021.05.17-14.56.47:900][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:900][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_12
+[2021.05.17-14.56.47:901][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:901][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_18
+[2021.05.17-14.56.47:901][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:901][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_0
+[2021.05.17-14.56.47:901][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:901][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_36
+[2021.05.17-14.56.47:902][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\Blueprints\PN_GlobalUpdater.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters': Can't find file.
+[2021.05.17-14.56.47:902][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.PN_BendingParameters Referenced by K2Node_CallMaterialParameterCollectionFunction_17
+[2021.05.17-14.56.48:002][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Summer\MI_GroundSummer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer': Can't find file.
+[2021.05.17-14.56.48:003][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Summer\MI_GroundSummer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer': Can't find file.
+[2021.05.17-14.56.48:003][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Summer\MI_GroundSummer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer': Can't find file.
+[2021.05.17-14.56.48:004][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Summer\MI_GroundSummer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer': Can't find file.
+[2021.05.17-14.56.48:004][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer.MA_GroundSummer Referenced by MI_GroundSummer
+[2021.05.17-14.56.48:005][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\MI_GroundWinter.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter': Can't find file.
+[2021.05.17-14.56.48:005][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\MI_GroundWinter.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter': Can't find file.
+[2021.05.17-14.56.48:005][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\MI_GroundWinter.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter': Can't find file.
+[2021.05.17-14.56.48:006][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\MI_GroundWinter.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter': Can't find file.
+[2021.05.17-14.56.48:006][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter.MA_GroundWinter Referenced by MI_GroundWinter
+[2021.05.17-14.56.48:007][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter': Can't find file.
+[2021.05.17-14.56.48:007][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter': Can't find file.
+[2021.05.17-14.56.48:078][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter': Can't find file.
+[2021.05.17-14.56.48:078][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV': Can't find file.
+[2021.05.17-14.56.48:079][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV': Can't find file.
+[2021.05.17-14.56.48:079][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC': Can't find file.
+[2021.05.17-14.56.48:079][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC': Can't find file.
+[2021.05.17-14.56.48:080][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV': Can't find file.
+[2021.05.17-14.56.48:080][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC': Can't find file.
+[2021.05.17-14.56.48:081][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter': Can't find file.
+[2021.05.17-14.56.48:081][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter.MA_Winter Referenced by spruce_full_01_MA
+[2021.05.17-14.56.48:081][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV': Can't find file.
+[2021.05.17-14.56.48:081][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV.spruce_full_01_PIV Referenced by spruce_full_01_MA
+[2021.05.17-14.56.48:082][214]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\ExampleContent\Winter\Materials\full\high\spruce_full_01_MA.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC': Can't find file.
+[2021.05.17-14.56.48:082][214]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC.spruce_full_01_VEC Referenced by spruce_full_01_MA
+[2021.05.17-14.56.48:095][214]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Bark_A_ (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Branch_N (BC5, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Bark_AOSH (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Snow_AORH (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Bark_N (BC5, 8192X8192)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Branch_A (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Snow_N (BC5, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Leaf_A_01 (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Leaf_AOSM (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Branch_AOSH (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: Leaf_O (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: spruce_full_02_PIV (RGBA16F, 1021X3)
+[2021.05.17-15.01.23:618][214]LogTexture: Display: Building textures: spruce_full_02_VEC (BGRA8, 1021X3)
+[2021.05.17-15.01.23:619][214]LogTexture: Display: Building textures: Leaf_N (BC5, 4096X4096)
+[2021.05.17-15.01.23:619][214]LogTexture: Display: Building textures: Snow_A (AutoDXT, 4096X4096)
+[2021.05.17-15.01.23:619][214]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.23:712][214]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.23:913][214]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.24:094][214]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.24:474][215]LogTexture: Display: Building textures: spruce_full_03_VEC (BGRA8, 1337X2)
+[2021.05.17-15.01.24:474][215]LogTexture: Display: Building textures: spruce_full_03_PIV (RGBA16F, 1337X2)
+[2021.05.17-15.01.24:474][215]LogTexture: Display: Building textures: spruce_full_01_low_PIV (RGBA16F, 265X3)
+[2021.05.17-15.01.24:474][215]LogTexture: Display: Building textures: spruce_full_01_low_VEC (BGRA8, 265X3)
+[2021.05.17-15.01.24:819][215]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.17-15.01.24:819][215]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Developers/User/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.17-15.01.24:819][215]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_full_02_low_PIV (RGBA16F, 795X2)
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_full_02_low_VEC (BGRA8, 795X2)
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_full_03_low_PIV (RGBA16F, 889X2)
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_full_03_low_VEC (BGRA8, 889X2)
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_half_01_VEC (BGRA8, 629X3)
+[2021.05.17-15.01.29:617][215]LogTexture: Display: Building textures: spruce_half_01_PIV (RGBA16F, 629X3)
+[2021.05.17-15.01.29:617][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.29:702][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.29:782][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_02_VEC (BGRA8, 301X5)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_02_PIV (RGBA16F, 301X5)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_03_VEC (BGRA8, 1579X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_03_PIV (RGBA16F, 1579X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_04_PIV (RGBA16F, 1200X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_04_VEC (BGRA8, 1200X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_01_low_VEC (BGRA8, 618X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_01_low_PIV (RGBA16F, 618X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_02_low_VEC (BGRA8, 267X3)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_02_low_PIV (RGBA16F, 267X3)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_03_low_PIV (RGBA16F, 1025X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_03_low_VEC (BGRA8, 1025X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_04_low_VEC (BGRA8, 595X2)
+[2021.05.17-15.01.38:632][215]LogTexture: Display: Building textures: spruce_half_04_low_PIV (RGBA16F, 595X2)
+[2021.05.17-15.01.38:633][215]LogTexture: Display: Building textures: Imposter_VEC (BGRA8, 1X1)
+[2021.05.17-15.01.38:633][215]LogTexture: Display: Building textures: Imposter_PIV (RGBA16F, 1X1)
+[2021.05.17-15.01.38:633][215]LogTexture: Display: Building textures: full_01_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.01.38:633][215]LogTexture: Display: Building textures: full_01_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.01.38:633][215]LogTexture: Display: Building textures: full_01_imposter_A_unlit (AutoDXT, 4096X4096)
+[2021.05.17-15.01.38:633][215]LogMaterial: Display: Missing cached shader map for material MA_Imposter, compiling. 
+[2021.05.17-15.01.38:752][215]LogMaterial: Display: Missing cached shader map for material MA_Imposter, compiling. 
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_02_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_02_imposter_A_unlit (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_02_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_03_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_03_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: full_03_imposter_A_unlit (AutoDXT, 4064X4064)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_01_imposter_O (AutoDXT, 4064X4064)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_01_imposter_N (BC5, 4064X4064)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_01_imposter_A (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_02_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_02_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_02_imposter_A (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_03_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_03_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_03_imposter_A (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_04_imposter_N (BC5, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_04_imposter_O (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: half_04_imposter_A (AutoDXT, 4096X4096)
+[2021.05.17-15.02.14:746][215]LogTexture: Display: Building textures: small_01_VEC (BGRA8, 3X3)
+[2021.05.17-15.02.14:747][215]LogTexture: Display: Building textures: small_01_PIV (RGBA16F, 3X3)
+[2021.05.17-15.02.14:747][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.02.14:827][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_02_PIV (RGBA16F, 5X4)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_02_VEC (BGRA8, 5X4)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_03_VEC (BGRA8, 7X3)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_03_PIV (RGBA16F, 7X3)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_04_VEC (BGRA8, 16X2)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_04_PIV (RGBA16F, 16X2)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_05_VEC (BGRA8, 77X3)
+[2021.05.17-15.02.15:148][215]LogTexture: Display: Building textures: small_05_PIV (RGBA16F, 77X3)
+[2021.05.17-15.02.15:148][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.02.15:238][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.02.15:491][215]LogMaterial: Display: Missing cached shader map for material MA_Winter, compiling. 
+[2021.05.17-15.02.16:071][215]LogTexture: Display: Building textures: small_06_PIV (RGBA16F, 195X2)
+[2021.05.17-15.02.16:071][215]LogTexture: Display: Building textures: small_06_VEC (BGRA8, 195X2)
+[2021.05.17-15.02.16:071][215]LogTexture: Display: Building textures: small_07_PIV (RGBA16F, 201X2)
+[2021.05.17-15.02.16:071][215]LogTexture: Display: Building textures: small_07_VEC (BGRA8, 201X2)
+[2021.05.17-15.02.16:071][215]LogStaticMesh: Building static mesh winter_spruce_full_01...
+[2021.05.17-15.02.17:812][215]LogStaticMesh: Built static mesh [1.72s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_01.winter_spruce_full_01
+[2021.05.17-15.02.18:276][215]LogStaticMesh: Building static mesh winter_spruce_full_02...
+[2021.05.17-15.02.22:170][215]LogStaticMesh: Built static mesh [3.91s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_02.winter_spruce_full_02
+[2021.05.17-15.02.22:544][215]LogStaticMesh: Building static mesh winter_spruce_full_03...
+[2021.05.17-15.02.25:967][215]LogStaticMesh: Built static mesh [3.44s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/high/winter_spruce_full_03.winter_spruce_full_03
+[2021.05.17-15.02.26:197][215]LogStaticMesh: Building static mesh winter_spruce_full_01_low...
+[2021.05.17-15.02.27:065][215]LogStaticMesh: Built static mesh [0.88s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_01_low.winter_spruce_full_01_low
+[2021.05.17-15.02.27:252][215]LogStaticMesh: Building static mesh winter_spruce_full_02_low...
+[2021.05.17-15.02.28:892][215]LogStaticMesh: Built static mesh [1.64s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_02_low.winter_spruce_full_02_low
+[2021.05.17-15.02.29:977][215]LogStaticMesh: Building static mesh winter_spruce_full_03_low...
+[2021.05.17-15.02.31:584][215]LogStaticMesh: Built static mesh [1.61s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/full/low/winter_spruce_full_03_low.winter_spruce_full_03_low
+[2021.05.17-15.02.32:140][215]LogStaticMesh: Building static mesh winter_spruce_half_01...
+[2021.05.17-15.02.36:075][215]LogStaticMesh: Built static mesh [3.97s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/high/winter_spruce_half_01.winter_spruce_half_01
+[2021.05.17-15.02.37:073][215]LogStaticMesh: Building static mesh winter_spruce_half_02...
+[2021.05.17-15.02.42:875][215]LogStaticMesh: Built static mesh [5.80s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/high/winter_spruce_half_02.winter_spruce_half_02
+[2021.05.17-15.02.43:977][215]LogStaticMesh: Building static mesh winter_spruce_half_03...
+[2021.05.17-15.02.50:019][215]LogStaticMesh: Built static mesh [6.06s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/high/winter_spruce_half_03.winter_spruce_half_03
+[2021.05.17-15.02.51:097][215]LogStaticMesh: Building static mesh winter_spruce_half_04...
+[2021.05.17-15.02.56:046][215]LogStaticMesh: Built static mesh [5.08s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/high/winter_spruce_half_04.winter_spruce_half_04
+[2021.05.17-15.02.57:009][215]LogStaticMesh: Building static mesh winter_spruce_half_01_low...
+[2021.05.17-15.02.59:499][215]LogStaticMesh: Built static mesh [2.64s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_01_low.winter_spruce_half_01_low
+[2021.05.17-15.02.59:759][215]LogStaticMesh: Building static mesh winter_spruce_half_02_low...
+[2021.05.17-15.03.01:857][215]LogStaticMesh: Built static mesh [2.10s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_02_low.winter_spruce_half_02_low
+[2021.05.17-15.03.02:688][215]LogStaticMesh: Building static mesh winter_spruce_half_03_low...
+[2021.05.17-15.03.07:176][215]LogStaticMesh: Built static mesh [4.49s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_03_low.winter_spruce_half_03_low
+[2021.05.17-15.03.07:932][215]LogStaticMesh: Building static mesh winter_spruce_half_04_low...
+[2021.05.17-15.03.12:269][215]LogStaticMesh: Built static mesh [4.34s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/half/low/winter_spruce_half_04_low.winter_spruce_half_04_low
+[2021.05.17-15.03.12:921][215]LogStaticMesh: Building static mesh winter_spruce_small_01...
+[2021.05.17-15.03.13:032][215]LogStaticMesh: Built static mesh [0.63s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_01.winter_spruce_small_01
+[2021.05.17-15.03.13:612][215]LogStaticMesh: Building static mesh winter_spruce_small_02...
+[2021.05.17-15.03.13:649][215]LogStaticMesh: Built static mesh [0.30s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_02.winter_spruce_small_02
+[2021.05.17-15.03.13:683][215]LogStaticMesh: Building static mesh winter_spruce_small_03...
+[2021.05.17-15.03.13:718][215]LogStaticMesh: Built static mesh [0.05s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_03.winter_spruce_small_03
+[2021.05.17-15.03.14:304][215]LogStaticMesh: Building static mesh winter_spruce_small_04...
+[2021.05.17-15.03.14:335][215]LogStaticMesh: Built static mesh [0.03s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_04.winter_spruce_small_04
+[2021.05.17-15.03.14:920][215]LogStaticMesh: Building static mesh winter_spruce_small_05...
+[2021.05.17-15.03.15:220][215]LogStaticMesh: Built static mesh [0.53s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_05.winter_spruce_small_05
+[2021.05.17-15.03.15:659][215]LogStaticMesh: Building static mesh winter_spruce_small_06...
+[2021.05.17-15.03.16:427][215]LogStaticMesh: Built static mesh [0.94s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_06.winter_spruce_small_06
+[2021.05.17-15.03.17:090][215]LogStaticMesh: Building static mesh winter_spruce_small_07...
+[2021.05.17-15.03.17:902][215]LogStaticMesh: Built static mesh [0.81s] /Game/PN_interactiveSpruceForest/ExampleContent/Winter/Meshes/small/winter_spruce_small_07.winter_spruce_small_07
+[2021.05.17-15.03.24:988][215]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X128)
+[2021.05.17-15.03.24:988][215]LogTexture: Display: Building textures: Leaf_A_02 (AutoDXT, 4096X4096)
+[2021.05.17-15.03.51:952][215]LogTexture: Display: Building textures: Moss_AOSH (AutoDXT, 4096X4096)
+[2021.05.17-15.03.51:952][215]LogTexture: Display: Building textures: Moss_A (AutoDXT, 4096X4096)
+[2021.05.17-15.03.51:952][215]LogTexture: Display: Building textures: Moss_N (BC5, 4096X4096)
+[2021.05.17-15.03.51:952][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:004][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:279][215]LogMaterial: Display: Missing cached shader map for material MA_Imposter, compiling. 
+[2021.05.17-15.03.52:327][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:492][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:553][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:752][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.52:841][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.53:037][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.53:103][215]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.03.53:189][215]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.03.53:259][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.53:449][215]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.05.17-15.03.53:881][215]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.05.17-15.03.57:650][215]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X64)
+[2021.05.17-15.03.57:650][215]LogTexture: Display: Building textures: spruce_full_01_PIV (RGBA16F, 37X35)
+[2021.05.17-15.03.57:650][215]LogTexture: Display: Building textures: spruce_full_01_VEC (BGRA8, 37X35)
+[2021.05.17-15.03.57:650][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.57:705][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.03.58:629][215]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.17-15.04.28:868][215]LogTexture: Display: Building textures: ground_H (AutoDXT, 4096X4096)
+[2021.05.17-15.04.28:868][215]LogTexture: Display: Building textures: ground_AO (AutoDXT, 4096X4096)
+[2021.05.17-15.04.28:868][215]LogTexture: Display: Building textures: ground_N (BC5, 4096X4096)
+[2021.05.17-15.04.28:868][215]LogTexture: Display: Building textures: ground_A (AutoDXT, 4096X4096)
+[2021.05.17-15.04.28:868][215]LogMaterial: Display: Missing cached shader map for material MA_GroundSummer, compiling. 
+[2021.05.17-15.04.29:059][215]LogMaterial: Display: Missing cached shader map for material MA_GroundWinter, compiling. 
+[2021.05.17-15.18.44:085][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.05.17-15.18.45:708][961]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.17-15.18.45:752][961]LogUObjectGlobals: Force Deleting 28 Package(s):
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+	Asset Name: /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2021.05.17-15.18.52:931][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:944][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:944][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:946][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:947][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:947][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:947][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:948][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:950][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:952][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:952][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:954][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:956][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:956][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:957][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:959][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:959][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:960][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:961][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:965][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:965][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:966][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:968][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:968][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:970][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:972][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:972][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:973][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:976][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:976][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:977][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:979][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:979][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:979][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:979][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:980][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:980][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:980][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:980][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:980][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:981][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:983][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:983][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:985][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:987][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:987][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:988][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:990][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:991][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:992][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:994][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:994][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:996][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.52:998][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.52:998][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.52:999][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:001][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:001][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:003][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:005][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:005][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:006][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:008][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:010][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:010][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:012][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:014][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:014][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:016][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:018][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:018][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:020][961]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.05.17-15.18.53:022][961]LogMaterial: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\PN_interactiveSpruceForest\UE4_Mannequin\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Missing Material Function
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.05.17-15.18.53:022][961]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.17-15.18.53:055][961]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.05.17-15.18.53:129][961]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.05.17-15.18.53:444][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.05.17-15.18.53:562][961]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.17-15.18.57:747][961]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.185 s
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: 
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3129]
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: 
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: Stack: 
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb08cba089 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0855a5cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb07cb40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb07f8fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb07f870b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e55859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e57071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e3b46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e437f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e420337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e413632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44ef9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44ef4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb8305e858 USER32.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb8305e299 USER32.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:755][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e442233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e3dd485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0801c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0854e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffafd6a6bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffaea5270e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffaea5272ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffaea517a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffafe290703 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffafe289de2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffafe3080e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffafe28cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e55859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e57071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e3b46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e437f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e420337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb0e413632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44ef9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44ef4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb8305e858 USER32.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb8305e299 USER32.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb44f0f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ff61fba8848 UE4Editor.exe!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ff61fbc117c UE4Editor.exe!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ff61fbc125a UE4Editor.exe!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ff61fbd52bd UE4Editor.exe!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ff61fbd7fea UE4Editor.exe!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb82ed7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: [Callstack] 0x00007ffb84b62651 ntdll.dll!UnknownFunction []
+[2021.05.17-15.18.57:756][961]LogOutputDevice: Error: 

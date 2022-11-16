@@ -1,0 +1,1465 @@
+﻿Log file open, 05/27/21 11:51:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CityOfFear
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230534
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin AlembicHairImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin DiscordMessenger
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Replica
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin XRVisualization
+LogPluginManager: Mounting plugin Wwise
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.27-14.51.24:391][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.05.27-14.51.24:392][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-14.51.24:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.27-14.51.24:392][  0]LogHAL: Display: Platform has ~ 16 GB [17113944064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.27-14.51.24:392][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.27-14.51.24:392][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]]
+[2021.05.27-14.51.24:393][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.27-14.51.24:394][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.27-14.51.24:394][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.27-14.51.24:394][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.27-14.51.24:394][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.05.27-14.51.24:394][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Editor.ini]
+[2021.05.27-14.51.24:394][  0]LogInit: Computer: DESKTOP-15US14O
+[2021.05.27-14.51.24:394][  0]LogInit: User: User
+[2021.05.27-14.51.24:394][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.27-14.51.24:394][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.27-14.51.24:394][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.27-14.51.24:394][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.27-14.51.24:394][  0]LogMemory: Process Physical Memory: 139.96 MB used, 139.97 MB peak
+[2021.05.27-14.51.24:394][  0]LogMemory: Process Virtual Memory: 111.72 MB used, 111.72 MB peak
+[2021.05.27-14.51.24:394][  0]LogMemory: Physical Memory: 8350.37 MB used,  7970.76 MB free, 16321.13 MB total
+[2021.05.27-14.51.24:394][  0]LogMemory: Virtual Memory: 134204224.00 MB used,  13507.71 MB free, 134217728.00 MB total
+[2021.05.27-14.51.24:400][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.27-14.51.24:444][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.27-14.51.24:445][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.05.27-14.51.24:445][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.05.27-14.51.24:629][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.27-14.51.24:640][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.27-14.51.24:652][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.27-14.51.24:652][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.27-14.51.24:777][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-14.51.24:777][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.27-14.51.24:777][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.27-14.51.24:777][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.27-14.51.24:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.05.27-14.51.24:898][  0]LogD3D11RHI:       3955/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.27-14.51.24:901][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.27-14.51.24:901][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.27-14.51.24:901][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.27-14.51.24:907][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.27-14.51.24:907][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.27-14.51.24:907][  0]LogWindows: EnumDisplayDevices:
+[2021.05.27-14.51.24:907][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.05.27-14.51.24:907][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.27-14.51.24:907][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.27-14.51.24:908][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.05.27-14.51.24:908][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.27-14.51.24:908][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.05.27-14.51.24:908][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.05.27-14.51.24:908][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.05.27-14.51.24:908][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.05.27-14.51.24:987][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.27-14.51.24:988][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.27-14.51.24:988][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.27-14.51.25:010][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.27-14.51.25:012][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.27-14.51.25:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.27-14.51.25:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.27-14.51.25:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.27-14.51.25:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.27-14.51.25:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.27-14.51.25:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.27-14.51.25:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.27-14.51.25:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.27-14.51.25:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.27-14.51.25:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.27-14.51.25:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.27-14.51.25:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.27-14.51.25:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.27-14.51.25:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.27-14.51.25:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.27-14.51.25:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.27-14.51.25:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.27-14.51.25:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.27-14.51.25:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.27-14.51.25:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.27-14.51.25:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.27-14.51.25:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.27-14.51.25:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.27-14.51.25:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.27-14.51.25:574][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.27-14.51.25:633][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.27-14.51.25:633][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Intermediate/Shaders/WorkingDirectory/22716/).
+[2021.05.27-14.51.25:634][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/6B38C0EE4AB5819830F5179036D488BB/'.
+[2021.05.27-14.51.25:634][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.05.27-14.51.26:394][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.27-14.51.26:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.27-14.51.26:463][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.27-14.51.26:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.27-14.51.26:463][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.27-14.51.26:485][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.05.27-14.51.26:485][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=283.98MBs, RandomWriteSpeed=52.14MBs. Assigned SpeedClass 'Local'
+[2021.05.27-14.51.26:486][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.27-14.51.26:486][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.27-14.51.26:486][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.27-14.51.26:534][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.27-14.51.26:534][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.27-14.51.26:557][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.27-14.51.26:780][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-14.51.26:780][  0]LogInit: Active device profile: [0000023C972D6B00][0000023C95929600 49] Windows
+[2021.05.27-14.51.26:780][  0]LogInit: Profiles: [0000023C972D6B00][0000023C95929600 49] Windows, [0000023C97269700][0000023C95947780 49] WindowsNoEditor, [0000023C972D5700][0000023C95969900 49] WindowsServer, [0000023C9726AB00][0000023C95999A80 49] WindowsClient, [0000023C972D6D00][0000023C9592DBC0 49] IOS, [0000023C9726B700][0000023C959DFD00 49] iPadAir, [0000023C972D5400][0000023C959E2180 49] iPadAir2, [0000023C96FBFE00][0000023C959F2440 49] IPadPro, [0000023C96FBFF00][0000023C959EA480 49] iPadAir3, [0000023C972D6C00][0000023C95A00600 49] iPadAir4, [0000023C96FBDC00][0000023C95A0C780 49] iPadMini2, [0000023C972D5600][0000023C95A10900 49] iPadMini3, [0000023C96FBFA00][0000023C95A20A80 49] iPadMini4, [0000023C972D4B00][0000023C95A24C00 49] iPadMini5, [0000023C96FFF700][0000023C95A2CEC0 49] iPhone6, [0000023C96FFF800][0000023C95A28F00 49] iPodTouch6, [0000023C96FBDB00][0000023C95A351C0 49] iPhone7, [0000023C96FBDA00][0000023C95A31200 49] iPodTouch7, [0000023C96FFDB00][0000023C95A39380 49] iPhone5S, [0000023C96FBE000][0000023C95A3D500 49] iPhone6Plus, [0000023C96FFFD00][0000023C95A41680 49] iPhone6S, [0000023C96FBD600][0000023C95A45800 49] iPhone6SPlus, [0000023C96FFD700][0000023C95A49980 49] iPhone7Plus, [0000023C96FBC500][0000023C95A6DB00 49] iPhoneSE, [0000023C96FFE000][0000023C959E7C40 49] iPhone8, [0000023C96FBFD00][0000023C95A700C0 49] iPhone8Plus, [0000023C96FFFB00][0000023C95A74200 49] iPhoneX, [0000023C96FBE200][0000023C95A78340 49] iPhoneXS, [0000023C96FFE200][0000023C95A804C0 49] iPhoneXSMax, [0000023C96FBDF00][0000023C95A84640 49] iPhoneXR, [0000023C96FFEA00][0000023C95A887C0 49] iPhone11, [0000023C96FBFB00][0000023C95A8C940 49] iPhone11Pro, [0000023C96FFD300][0000023C95A90AC0 49] iPhone11ProMax, [0000023C96FBD700][0000023C95A94C40 49] iPhoneSE2, [0000023C96FFEB00][0000023C95A98DC0 49] iPhone12Mini, [0000023C96FBD100][0000023C95A9CF40 49] iPhone12, [0000023C96FFC900][0000023C95AA10C0 49] iPhone12Pro, [0000023C96FBF900][0000023C95AA5240 49] iPhone12ProMax, [0000023C96FFED00][0000023C95AA93C0 49] iPadPro105, [0000023C96FBCA00][0000023C95AAD540 49] iPadPro129, [0000023C96FFDC00][0000023C95AB16C0 49] iPadPro97, [0000023C96FBD800][0000023C95AB5840 49] iPadPro2_129, [0000023C96FFFE00][0000023C95AB99C0 49] iPad5, [0000023C96FBC400][0000023C95ABDB40 49] iPad6, [0000023C96FFE700][0000023C95A7DC80 49] iPad7, [0000023C96FBD900][0000023C95AC0100 49] iPad8, [0000023C96FFF600][0000023C95AC4240 49] iPadPro11, [0000023C96FBEE00][0000023C95AC8380 49] iPadPro2_11, [0000023C96FFFC00][0000023C95AD0500 49] iPadPro3_129, [0000023C96FBE900][0000023C95B10680 49] iPadPro4_129, [0000023C96FBEF00][0000023C95B14800 49] AppleTV, [0000023C9726B400][0000023C95B18980 49] AppleTV4K, [0000023C94C94400][0000023C95B1CB00 49] TVOS, [0000023C9726AF00][0000023C95B20C80 49] Mac, [0000023C96FFD800][0000023C95B24E00 49] MacClient, [0000023C9726B000][0000023C95B28F80 49] MacNoEditor, [0000023C96FFD200][0000023C95B2D100 49] MacServer, [0000023C97268F00][0000023C95B31280 49] Linux, [0000023C96FFC100][0000023C95B35400 49] LinuxAArch64, [0000023C97268300][0000023C95B39580 49] LinuxNoEditor, [0000023C96FFD600][0000023C95B3D700 49] LinuxAArch64NoEditor, [0000023C9726BB00][0000023C95B41880 49] LinuxClient, [0000023C96FFEC00][0000023C95B45A00 49] LinuxAArch64Client, [0000023C97269300][0000023C95B49B80 49] LinuxServer, [0000023C96FFD100][0000023C95B4DD00 49] LinuxAArch64Server, [0000023C97268100][0000023C95ACC180 49] Android, [0000023C96FFC600][0000023C963802C0 49] Android_Low, [0000023C97268D00][0000023C96384400 49] Android_Mid, [0000023C96FFC700][0000023C9638C580 49] Android_High, [0000023C97268B00][0000023C96390700 49] Android_Default, [0000023C96FFFA00][0000023C96394880 49] Android_Adreno4xx, [0000023C97269900][0000023C96398A00 49] Android_Adreno5xx_Low, [0000023C96FFCF00][0000023C9639CB80 49] Android_Adreno5xx, [0000023C9726B200][0000023C963A0D00 49] Android_Adreno6xx, [0000023C96FFE300][0000023C963A4E80 49] Android_Adreno6xx_Vulkan, [0000023C9726A800][0000023C963A9000 49] Android_Mali_T6xx, [0000023C96FFD400][0000023C963AD180 49] Android_Mali_T7xx, [0000023C9726B800][0000023C963B1300 49] Android_Mali_T8xx, [0000023C96FFCB00][0000023C963B5480 49] Android_Mali_G71, [0000023C97269F00][0000023C963B9600 49] Android_Mali_G72, [0000023C96FFE500][0000023C963BD780 49] Android_Mali_G72_Vulkan, [0000023C9726A200][0000023C963C1900 49] Android_Mali_G76, [0000023C96FFCE00][0000023C963C5A80 49] Android_Mali_G76_Vulkan, [0000023C9726B500][0000023C963C9C00 49] Android_Mali_G77, [0000023C96FFD500][0000023C963CC0C0 49] Android_Mali_G77_Vulkan, [0000023C9726BA00][0000023C96388200 49] Android_Vulkan_SM5, [0000023C96FFEF00][0000023C963D0340 49] Android_PowerVR_G6xxx, [0000023C97269800][0000023C963D4480 49] Android_PowerVR_GT7xxx, [0000023C96FFDA00][0000023C963DC600 49] Android_PowerVR_GE8xxx, [0000023C97269100][0000023C963E0780 49] Android_PowerVR_GM9xxx, [0000023C96FFEE00][0000023C963E4900 49] Android_PowerVR_GM9xxx_Vulkan, [0000023C9726B100][0000023C963E8A80 49] Android_TegraK1, [0000023C96FBE800][0000023C963ECC00 49] Android_Unknown_Vulkan, [0000023C972D5100][0000023C963F0D80 49] Lumin, [0000023C96FBC600][0000023C963F4F00 49] Lumin_Desktop, [0000023C972D7A00][0000023C963F9080 49] HoloLens, 
+[2021.05.27-14.51.26:884][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.27-14.51.26:884][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.27-14.51.26:884][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.27-14.51.26:884][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.27-14.51.26:884][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.27-14.51.26:899][  0]LogNetVersion: CityOfFear 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3763831798)
+[2021.05.27-14.51.27:321][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.27-14.51.27:390][  0]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.069596 seconds
+[2021.05.27-14.51.27:395][  0]LogUObjectArray: 17698 objects as part of root set at end of initial load.
+[2021.05.27-14.51.27:395][  0]LogUObjectAllocator: 4550480 out of 0 bytes used by permanent object pool.
+[2021.05.27-14.51.27:395][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.27-14.51.27:784][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.05.27-14.51.27:793][  0]LogPython: Using Python 3.7.7
+[2021.05.27-14.51.28:629][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.27-14.51.28:634][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.27-14.51.28:706][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.28:741][  0]LogAkAudio: Wwise(R) SDK Version 2021.1.1 Build 7601. Copyright (c) 2006-2021 Audiokinetic Inc.
+[2021.05.27-14.51.28:742][  0]LogAkAudio: Wwise plug-in DLL path: C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/
+[2021.05.27-14.51.28:743][  0]LogAkAudio: Wwise remote connection application name: CityOfFear (Editor)
+[2021.05.27-14.51.28:743][  0]LogAkAudio: Wwise successfully initialized.
+[2021.05.27-14.51.28:743][  0]LogAkAudio: Error: Cannot open file: Init.bnk
+[2021.05.27-14.51.28:743][  0]LogAkAudio: Error: Bank Load Failed
+[2021.05.27-14.51.28:743][  0]LogAkAudio: Initialization complete.
+[2021.05.27-14.51.28:743][  0]LogInit: Audiokinetic Audio Device initialized.
+[2021.05.27-14.51.28:937][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.28:940][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.28:943][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.28:950][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.28:957][  0]LogUProjectInfo: Found projects:
+[2021.05.27-14.51.29:391][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.27-14.51.29:427][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.27-14.51.29:427][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.27-14.51.29:519][  0]LogCollectionManager: Loaded 0 collections in 0.001697 seconds
+[2021.05.27-14.51.29:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collections/' took 0.00s
+[2021.05.27-14.51.29:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Developers/User/Collections/' took 0.00s
+[2021.05.27-14.51.29:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Collections/' took 0.00s
+[2021.05.27-14.51.29:546][  0]LogOcInput: OculusInput pre-init called
+[2021.05.27-14.51.29:561][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.27-14.51.29:561][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.27-14.51.29:564][  0]LogWinDualShock: Error: Support Missing
+[2021.05.27-14.51.29:880][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.05.27-14.51.29:881][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.05.27-14.51.29:881][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.05.27-14.51.29:881][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.05.27-14.51.29:944][  0]LogEngine: Initializing Engine...
+[2021.05.27-14.51.29:945][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-14.51.29:945][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.27-14.51.29:946][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2021.05.27-14.51.29:947][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.27-14.51.30:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.27-14.51.30:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.27-14.51.30:071][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.27-14.51.30:075][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.27-14.51.30:075][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-14.51.30:075][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-14.51.30:075][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-14.51.30:076][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-14.51.30:076][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-14.51.30:085][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-14.51.30:085][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-14.51.30:117][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-14.51.30:120][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-14.51.30:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-14.51.30:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-14.51.30:122][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-14.51.30:122][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-14.51.30:122][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-14.51.30:123][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-14.51.30:123][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-14.51.30:123][  0]LogInit: FAudioDevice initialized.
+[2021.05.27-14.51.30:124][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.27-14.51.30:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.27-14.51.30:382][  0]LogDerivedDataCache: Saved boot cache 0.26s 89MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.27-14.51.30:385][  0]LogInit: Texture streaming: Enabled
+[2021.05.27-14.51.30:397][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.27-14.51.30:400][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.27-14.51.30:400][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.27-14.51.30:402][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.27-14.51.30:428][  0]LogInit: Transaction tracking system initialized
+[2021.05.27-14.51.30:449][  0]BlueprintLog: New page: Editor Load
+[2021.05.27-14.51.30:523][  0]LocalizationService: Localization service is disabled
+[2021.05.27-14.51.30:547][  0]TimingProfiler: Initialize
+[2021.05.27-14.51.30:547][  0]TimingProfiler: OnSessionChanged
+[2021.05.27-14.51.30:547][  0]LoadingProfiler: Initialize
+[2021.05.27-14.51.30:547][  0]LoadingProfiler: OnSessionChanged
+[2021.05.27-14.51.30:547][  0]NetworkingProfiler: Initialize
+[2021.05.27-14.51.30:547][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.27-14.51.30:547][  0]MemoryProfiler: Initialize
+[2021.05.27-14.51.30:547][  0]MemoryProfiler: OnSessionChanged
+[2021.05.27-14.51.30:687][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.27-14.51.30:687][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.27-14.51.30:895][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/' took 0.00s
+[2021.05.27-14.51.31:070][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.27-14.51.31:073][  0]SourceControl: Source control is disabled
+[2021.05.27-14.51.31:073][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.912
+[2021.05.27-14.51.31:074][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-14.51.31:074][  0]LightingResults: New page: Lighting Build
+[2021.05.27-14.51.31:075][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-14.51.31:075][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-14.51.31:075][  0]MapCheck: New page: Map Check
+[2021.05.27-14.51.31:075][  0]LightingResults: New page: Lighting Build
+[2021.05.27-14.51.31:082][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.27-14.51.31:538][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2021.05.27-14.51.31:539][  0]LogAIModule: Creating AISystem for world Game
+[2021.05.27-14.51.31:576][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-14.51.31:622][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.05.27-14.51.31:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-14.51.31:623][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2021.05.27-14.51.31:623][  0]LogFileHelpers: Loading map 'Game' took 0.549
+[2021.05.27-14.51.31:623][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.05.27-14.51.31:645][  0]LogAssetRegistry: Asset discovery search completed in 0.0227 seconds
+[2021.05.27-14.51.31:659][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.05.27-14.51.31:661][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.500
+[2021.05.27-14.51.31:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-14.51.31:796][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 4289 classes and 992 folders.
+[2021.05.27-14.51.31:799][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-14.51.31:800][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-14.51.31:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-14.51.31:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.27-14.51.31:800][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.27-14.51.31:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.27-14.51.31:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.27-14.51.31:801][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.27-14.51.31:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.27-14.51.31:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-14.51.31:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.27-14.51.31:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.27-14.51.31:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.27-14.51.31:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.27-14.51.31:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-14.51.31:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.27-14.51.31:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.27-14.51.31:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-14.51.31:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-14.51.31:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-14.51.31:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.27-14.51.31:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.27-14.51.31:808][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-14.51.31:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-14.51.31:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.27-14.51.31:808][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.27-14.51.31:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.27-14.51.31:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.27-14.51.31:809][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-14.51.31:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-14.51.31:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-14.51.31:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-14.51.31:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-14.51.31:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-14.51.31:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.27-14.51.31:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-14.51.31:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-14.51.31:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-14.51.31:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.27-14.51.31:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.05.27-14.51.31:855][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-14.51.31:861][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.27-14.51.31:981][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.27-14.51.31:983][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.27-14.51.31:986][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.27-14.51.32:069][  0]LogRenderer: Reallocating scene render targets to support 1180x580 Format 9 NumSamples 1 (Frame:1).
+[2021.05.27-14.51.32:144][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-14.51.32:321][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.27-14.51.32:321][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.27-14.51.32:321][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.27-14.51.32:321][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.27-14.51.32:321][  0]LogLoad: (Engine Initialization) Total time: 9.16 seconds
+[2021.05.27-14.51.32:321][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.27-14.51.32:321][  0]LogInit: First time updating LLM stats...
+[2021.05.27-14.51.32:372][  0]LogWinDualShock: Input Device Created
+[2021.05.27-14.51.32:398][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.05.27-14.51.32:414][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.05.27-14.51.33:343][ 88]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-14.54.01:585][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.27-14.54.04:883][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Objectives.Objectives
+[2021.05.27-14.54.04:981][912]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.05.27-14.54.05:855][912]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-14.54.06:022][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.27-14.54.06:022][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.27-14.54.06:022][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.27-14.54.06:462][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.27-14.54.06:462][912]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.05.27-14.54.06:465][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.27-14.54.06:465][912]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.05.27-14.54.06:488][912]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.05.27-14.54.06:490][912]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-14.54.06:490][912]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-14.54.06:491][912]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.05.27-14.54.06:492][912]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-14.54.06:492][912]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-14.54.06:545][912]LogBlueprintEditor: Perf: 0.7 total seconds to load all 8 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.05.27-14.54.06:545][912]LogBlueprintEditor: Perf: 0.6 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.05.27-14.54.06:883][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Key.Key
+[2021.05.27-14.54.07:216][912]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/E_key-01.E_key-01
+[2021.05.27-14.54.07:222][912]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.05.27-14.54.17:319][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.05.27-14.54.19:597][240]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.27-14.54.21:134][388]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.27-14.54.23:746][652]LogSlate: Window 'E_key-01' being destroyed
+[2021.05.27-14.54.44:053][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.05.27-15.11.36:765][675]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.05.27-15.11.53:338][467]Cmd: TRANSACTION UNDO
+[2021.05.27-15.11.53:338][467]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.05.27-15.11.53:946][485]Cmd: TRANSACTION UNDO
+[2021.05.27-15.11.53:946][485]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.27-15.12.12:268][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.05.27-15.12.12:422][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.27-15.12.20:306][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.27-15.12.28:224][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.27-15.12.28:294][204]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2021.05.27-15.12.28:297][204]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-15.12.28:297][204]LightingResults: New page: Lighting Build
+[2021.05.27-15.12.28:299][204]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.05.27-15.12.28:324][204]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.12.28:324][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.12.28:324][204]MapCheck: New page: Map Check
+[2021.05.27-15.12.28:324][204]LightingResults: New page: Lighting Build
+[2021.05.27-15.12.28:353][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-15.12.28:366][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.05.27-15.12.28:367][204]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.05.27-15.12.28:465][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-15.12.28:465][204]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.27-15.12.28:499][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.27-15.12.28:505][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-15.12.28:505][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.05.27-15.12.28:505][204]LogFileHelpers: Loading map 'MainMenu' took 0.211
+[2021.05.27-15.12.56:835][504]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.05.27-15.13.12:191][205]Cmd: STAT FPS
+[2021.05.27-15.13.24:246][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.05.27-15.13.25:409][515]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-15.13.25:467][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.27-15.13.25:481][515]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/MainMenu89D761614B2642BA9FB5A79BDA608E13.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/MainMenu.umap'
+[2021.05.27-15.13.25:488][515]LogFileHelpers: Saving map 'MainMenu' took 0.051
+[2021.05.27-15.13.25:500][515]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.27-15.13.25:500][515]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.05.27-15.17.45:717][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.27-15.17.45:826][825]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game.Game
+[2021.05.27-15.17.45:826][825]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-15.17.45:826][825]LightingResults: New page: Lighting Build
+[2021.05.27-15.17.45:826][825]LoadErrors: New page: Loading map: Game.umap
+[2021.05.27-15.17.45:827][825]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.17.45:828][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.17.45:828][825]MapCheck: New page: Map Check
+[2021.05.27-15.17.45:828][825]LightingResults: New page: Lighting Build
+[2021.05.27-15.17.45:862][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-15.17.45:868][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.27-15.17.45:869][825]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2021.05.27-15.17.46:035][825]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-15.17.46:035][825]LogAIModule: Creating AISystem for world Game
+[2021.05.27-15.17.46:073][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.05.27-15.17.46:079][825]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-15.17.46:079][825]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2021.05.27-15.17.46:079][825]LogFileHelpers: Loading map 'Game' took 0.254
+[2021.05.27-15.17.54:288][718]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2021.05.27-15.18.36:921][496]Cmd: DELETE
+[2021.05.27-15.18.36:921][496]Cmd: ACTOR DELETE
+[2021.05.27-15.18.36:935][496]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2021.05.27-15.18.36:938][496]LogEditorActor: Deleted Actor: Landscape
+[2021.05.27-15.18.36:947][496]LogEditorActor: Deleted Actor: WaterBrushManager
+[2021.05.27-15.18.36:984][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.05.27-15.18.36:986][496]LogEditorActor: Deleted 3 Actors (0.066 secs)
+[2021.05.27-15.18.39:313][758]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2021.05.27-15.18.52:441][187]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.20.23:582][870]Cmd: TRANSACTION UNDO
+[2021.05.27-15.20.23:582][870]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.05.27-15.20.24:404][895]Cmd: TRANSACTION UNDO
+[2021.05.27-15.20.24:404][895]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.27-15.20.40:121][566]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.05.27-15.20.41:095][679]Cmd: DELETE
+[2021.05.27-15.20.41:095][679]Cmd: ACTOR DELETE
+[2021.05.27-15.20.41:109][679]LogEditorActor: Deleted Actor: Landscape
+[2021.05.27-15.20.41:156][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.27-15.20.41:159][679]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.05.27-15.20.52:317][733]Cmd: DELETE
+[2021.05.27-15.20.52:317][733]Cmd: ACTOR DELETE
+[2021.05.27-15.20.52:329][733]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2021.05.27-15.20.52:365][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.27-15.20.52:367][733]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.05.27-15.21.08:561][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.27-15.21.09:790][523]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-15.21.09:845][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.27-15.21.10:033][523]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/GameC2ECA2954DF506C1DE9CA6AEE4E07411.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap'
+[2021.05.27-15.21.10:044][523]LogFileHelpers: Saving map 'Game' took 0.229
+[2021.05.27-15.21.10:056][523]AssetCheck: New page: Asset Save: Game
+[2021.05.27-15.21.10:056][523]LogContentValidation: Display: Validating World /Game/Maps/Game.Game
+[2021.05.27-15.21.11:544][632]LogTexture: Display: Building textures: Texture2D_6 (G8, 128X128)
+[2021.05.27-15.21.48:064][583]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.21.48:085][583]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.21.48:086][583]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.22.49:223][832]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.23.09:938][932]MapCheck: New page: Map Check
+[2021.05.27-15.23.10:005][932]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.27-15.23.10:006][932]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.27-15.23.11:009][932]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=false
+[2021.05.27-15.23.11:192][932]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.27-15.23.11:192][932]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.27-15.23.11:192][932]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.27-15.23.11:309][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.05.27-15.23.11:346][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:427][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:430][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.05.27-15.23.11:516][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:517][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:519][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:520][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:521][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:524][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.11:526][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-15.23.30:688][932]TextureStreamingBuild: Display: Compiling optional shaders took 19.349 seconds.
+[2021.05.27-15.23.30:790][932]LogLevel: Display: Export Material TexCoord Scales took 0.102 seconds.
+[2021.05.27-15.23.30:795][932]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.05.27-15.23.30:829][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.27-15.23.30:858][932]LogEditorBuildUtils: Build time 0:20
+[2021.05.27-15.23.35:346][349]Cmd: TRANSACTION UNDO
+[2021.05.27-15.23.35:346][349]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.05.27-15.23.35:358][349]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.23.35:363][349]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.24.10:296][675]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-15.24.10:302][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-15.24.10:303][675]PIE: New page: PIE session: Game (May 27, 2021, 9:24:10 AM)
+[2021.05.27-15.24.10:303][675]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.27-15.24.10:305][675]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.27-15.24.10:305][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.24.10:397][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091569s)
+[2021.05.27-15.24.10:400][675]LogAIModule: Creating AISystem for world Game
+[2021.05.27-15.24.10:400][675]LogPlayLevel: PIE: World Init took: (0.003273s)
+[2021.05.27-15.24.10:400][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.095046s)
+[2021.05.27-15.24.10:489][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.05.27-15.24.10:490][675]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-15.24.10:490][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-15.24.10:490][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-15.24.10:491][675]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-15.24.10:491][675]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-15.24.10:495][675]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-15.24.10:495][675]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-15.24.10:507][675]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-15.24.10:507][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-15.24.10:507][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-15.24.10:507][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-15.24.10:508][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-15.24.10:508][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-15.24.10:508][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-15.24.10:524][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-15.24.10:524][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-15.24.10:524][675]LogInit: FAudioDevice initialized.
+[2021.05.27-15.24.10:524][675]LogAudio: Display: Audio Device (ID: 2) registered with world 'Game'.
+[2021.05.27-15.24.10:534][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-15.24.10:539][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-12.24.10
+[2021.05.27-15.24.10:540][675]LogWorld: Bringing up level for play took: 0.004641
+[2021.05.27-15.24.10:540][675]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.27-15.24.10:543][675]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.27-15.24.10:545][675]PIE: Server logged in
+[2021.05.27-15.24.10:546][675]PIE: Play in editor total start time 0.245 seconds.
+[2021.05.27-15.24.21:213][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.24.21:213][886]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.24.21:213][886]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.24.21:214][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.24.21:225][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-15.24.21:232][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.24.21:274][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.24.21:286][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.24.21:287][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.24.21:367][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.05.27-15.24.21:390][887]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.27-15.26.11:611][198]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WebBrowser' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.27-15.26.34:041][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.05.27-15.26.34:821][143]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-15.26.34:909][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.05.27-15.26.34:938][143]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.26.34:942][143]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.26.35:163][143]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/GameB9048EE4463A9E7B5F8671AD4F3092AA.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap'
+[2021.05.27-15.26.35:172][143]LogFileHelpers: Saving map 'Game' took 0.323
+[2021.05.27-15.26.35:183][143]AssetCheck: New page: Asset Save: Game
+[2021.05.27-15.26.35:183][143]LogContentValidation: Display: Validating World /Game/Maps/Game.Game
+[2021.05.27-15.27.26:268][459]Cmd: TRANSACTION UNDO
+[2021.05.27-15.27.26:268][459]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.05.27-15.27.26:286][459]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.27.26:743][473]Cmd: TRANSACTION UNDO
+[2021.05.27-15.27.26:743][473]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.05.27-15.27.26:781][473]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.27.27:301][511]Cmd: TRANSACTION UNDO
+[2021.05.27-15.27.27:301][511]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.05.27-15.27.27:316][511]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.27.37:970][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.05.27-15.27.38:719][688]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-15.27.38:774][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.27-15.27.38:804][688]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.27.39:024][688]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Game08D80F46487F15A01789F8B25E0F4FA7.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap'
+[2021.05.27-15.27.39:033][688]LogFileHelpers: Saving map 'Game' took 0.289
+[2021.05.27-15.27.39:044][688]AssetCheck: New page: Asset Save: Game
+[2021.05.27-15.27.39:044][688]LogContentValidation: Display: Validating World /Game/Maps/Game.Game
+[2021.05.27-15.27.45:642][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.27-15.27.45:773][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.27-15.28.26:483][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.27-15.28.59:592][636]LogRenderer: Reallocating scene render targets to support 1180x584 Format 9 NumSamples 1 (Frame:47673).
+[2021.05.27-15.28.59:630][638]LogRenderer: Reallocating scene render targets to support 1180x612 Format 9 NumSamples 1 (Frame:47676).
+[2021.05.27-15.28.59:666][640]LogRenderer: Reallocating scene render targets to support 1180x644 Format 9 NumSamples 1 (Frame:47679).
+[2021.05.27-15.28.59:702][642]LogRenderer: Reallocating scene render targets to support 1180x672 Format 9 NumSamples 1 (Frame:47682).
+[2021.05.27-15.28.59:741][644]LogRenderer: Reallocating scene render targets to support 1180x684 Format 9 NumSamples 1 (Frame:47685).
+[2021.05.27-15.28.59:777][646]LogRenderer: Reallocating scene render targets to support 1180x696 Format 9 NumSamples 1 (Frame:47688).
+[2021.05.27-15.38.28:787][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.27-15.38.29:415][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.27-15.38.29:567][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.05.27-15.46.34:286][267]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.34:286][267]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.34:302][267]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.46.37:402][563]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.37:402][563]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.42:210][ 70]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.42:210][ 70]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.54:413][356]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.54:413][356]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.54:429][356]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.46.55:092][380]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.55:092][380]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.55:116][380]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.46.55:686][443]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.55:686][443]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.55:703][443]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.46.56:270][506]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.56:270][506]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.59:344][840]Cmd: TRANSACTION UNDO
+[2021.05.27-15.46.59:344][840]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.46.59:360][840]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.47.00:682][933]Cmd: TRANSACTION UNDO
+[2021.05.27-15.47.00:682][933]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.47.01:626][ 32]Cmd: TRANSACTION UNDO
+[2021.05.27-15.47.01:626][ 32]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.47.10:237][964]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.47.13:908][354]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-15.47.13:914][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-15.47.13:914][354]PIE: New page: PIE session: Game (May 27, 2021, 9:47:13 AM)
+[2021.05.27-15.47.13:941][354]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.47.14:023][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082403s)
+[2021.05.27-15.47.14:024][354]LogAIModule: Creating AISystem for world Game
+[2021.05.27-15.47.14:025][354]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.05.27-15.47.14:025][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.084017s)
+[2021.05.27-15.47.14:065][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.27-15.47.14:073][354]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-15.47.14:073][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-15.47.14:073][354]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-15.47.14:073][354]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-15.47.14:077][354]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-15.47.14:077][354]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-15.47.14:088][354]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-15.47.14:088][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-15.47.14:088][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-15.47.14:088][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-15.47.14:089][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-15.47.14:089][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-15.47.14:089][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-15.47.14:106][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-15.47.14:106][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-15.47.14:106][354]LogInit: FAudioDevice initialized.
+[2021.05.27-15.47.14:106][354]LogAudio: Display: Audio Device (ID: 3) registered with world 'Game'.
+[2021.05.27-15.47.14:111][354]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-15.47.14:116][354]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-12.47.14
+[2021.05.27-15.47.14:116][354]LogWorld: Bringing up level for play took: 0.004337
+[2021.05.27-15.47.14:116][354]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.27-15.47.14:119][354]PIE: Server logged in
+[2021.05.27-15.47.14:120][354]PIE: Play in editor total start time 0.207 seconds.
+[2021.05.27-15.47.30:425][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.47.30:425][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.47.30:427][289]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.47.30:429][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.47.30:452][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-15.47.30:462][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.47.30:496][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-15.47.30:496][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.47.30:497][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.47.30:514][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.47.30:519][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.27-15.47.30:546][290]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.27-15.47.48:692][326]Cmd: TRANSACTION UNDO
+[2021.05.27-15.47.48:692][326]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.05.27-15.47.48:711][326]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.48.48:293][944]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-15.48.48:300][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-15.48.48:300][944]PIE: New page: PIE session: Game (May 27, 2021, 9:48:48 AM)
+[2021.05.27-15.48.48:321][944]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.48.48:406][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085683s)
+[2021.05.27-15.48.48:407][944]LogAIModule: Creating AISystem for world Game
+[2021.05.27-15.48.48:408][944]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2021.05.27-15.48.48:408][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.087493s)
+[2021.05.27-15.48.48:448][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.27-15.48.48:454][944]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-15.48.48:454][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-15.48.48:454][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-15.48.48:455][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-15.48.48:455][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-15.48.48:459][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-15.48.48:459][944]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-15.48.48:469][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-15.48.48:469][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-15.48.48:486][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-15.48.48:486][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-15.48.48:486][944]LogInit: FAudioDevice initialized.
+[2021.05.27-15.48.48:486][944]LogAudio: Display: Audio Device (ID: 4) registered with world 'Game'.
+[2021.05.27-15.48.48:492][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-15.48.48:497][944]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-12.48.48
+[2021.05.27-15.48.48:497][944]LogWorld: Bringing up level for play took: 0.004313
+[2021.05.27-15.48.48:498][944]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.27-15.48.48:501][944]PIE: Server logged in
+[2021.05.27-15.48.48:501][944]PIE: Play in editor total start time 0.203 seconds.
+[2021.05.27-15.48.56:275][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.48.56:275][864]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.48.56:277][864]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.48.56:279][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.48.56:296][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-15.48.56:303][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.48.56:339][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-15.48.56:339][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.48.56:341][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.48.56:359][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.48.56:364][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.05.27-15.48.56:390][865]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.05.27-15.49.42:289][902]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-15.49.42:296][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-15.49.42:296][902]PIE: New page: PIE session: Game (May 27, 2021, 9:49:42 AM)
+[2021.05.27-15.49.42:341][902]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.49.42:427][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086484s)
+[2021.05.27-15.49.42:428][902]LogAIModule: Creating AISystem for world Game
+[2021.05.27-15.49.42:428][902]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2021.05.27-15.49.42:428][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.088090s)
+[2021.05.27-15.49.42:467][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.27-15.49.42:472][902]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-15.49.42:472][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-15.49.42:472][902]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-15.49.42:472][902]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-15.49.42:477][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-15.49.42:477][902]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-15.49.42:487][902]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-15.49.42:488][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-15.49.42:488][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-15.49.42:488][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-15.49.42:488][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-15.49.42:488][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-15.49.42:488][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-15.49.42:506][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-15.49.42:506][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-15.49.42:506][902]LogInit: FAudioDevice initialized.
+[2021.05.27-15.49.42:506][902]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2021.05.27-15.49.42:518][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-15.49.42:522][902]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-12.49.42
+[2021.05.27-15.49.42:523][902]LogWorld: Bringing up level for play took: 0.004415
+[2021.05.27-15.49.42:523][902]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.27-15.49.42:526][902]PIE: Server logged in
+[2021.05.27-15.49.42:526][902]PIE: Play in editor total start time 0.232 seconds.
+[2021.05.27-15.49.54:734][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.49.54:735][349]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2021.05.27-15.49.54:736][349]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-15.49.54:738][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.49.54:751][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-15.49.54:759][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-15.49.54:798][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-15.49.54:798][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.49.54:799][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-15.49.54:817][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-15.49.54:823][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.27-15.49.54:849][350]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.27-15.50.39:459][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.27-15.50.40:174][242]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-15.50.40:228][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.27-15.50.40:260][242]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-15.50.40:263][242]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-15.50.40:496][242]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Game5ED23946478755AC38FA1580394BD675.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap'
+[2021.05.27-15.50.40:528][242]LogFileHelpers: Saving map 'Game' took 0.333
+[2021.05.27-15.50.40:539][242]AssetCheck: New page: Asset Save: Game
+[2021.05.27-15.50.40:539][242]LogContentValidation: Display: Validating World /Game/Maps/Game.Game
+[2021.05.27-15.59.26:034][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.27-15.59.26:219][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.27-15.59.34:561][948]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-16.00.29:711][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.05.27-16.00.30:279][650]LogSlate: Window 'Save Content' being destroyed
+[2021.05.27-16.00.30:337][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.27-16.00.30:368][650]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.27-16.00.30:371][650]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.27-16.00.30:600][650]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Game29156F7E4E67184697EF8082A830BA3D.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Maps/Game.umap'
+[2021.05.27-16.00.30:611][650]LogFileHelpers: Saving map 'Game' took 0.304
+[2021.05.27-16.00.30:644][650]AssetCheck: New page: Asset Save: Game
+[2021.05.27-16.00.30:644][650]LogContentValidation: Display: Validating World /Game/Maps/Game.Game
+[2021.05.27-16.00.50:038][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.27-16.00.50:170][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.27-16.01.00:973][805]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.27-16.01.01:010][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-16.01.01:011][805]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-17.42.32:189][826]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.27-17.42.32:219][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-17.42.32:219][826]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C0DEC12-4D77-F193-6CF6-A6996D844FA9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=71d2c30945e65b26fa25dda00985a531%7C42f8f42ac0fb42f2842561e63051e392%7Cfe0d2c82-5a0b-4cb4-8982-087a2653705e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: libcurl info message cache 1 (Closing connection 0)
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.27-17.42.33:638][827]LogHttp: Warning: 0000023D6CB7DD00: libcurl info message cache 3 (Closing connection 1)
+[2021.05.27-17.42.33:651][828]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C0DEC12-4D77-F193-6CF6-A6996D844FA9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=71d2c30945e65b26fa25dda00985a531%7C42f8f42ac0fb42f2842561e63051e392%7Cfe0d2c82-5a0b-4cb4-8982-087a2653705e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.27-18.10.21:429][187]BlueprintLog: New page: Compile Collectible_BP
+[2021.05.27-18.10.21:596][187]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2021.05.27-18.10.21:757][187]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.27-18.10.21:987][194]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BP3E936DDC448BE30CC89F598623266FC7.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Actors_BPs/Collectible_BP.uasset'
+[2021.05.27-18.10.22:004][194]AssetCheck: New page: Asset Save: Collectible_BP
+[2021.05.27-18.10.22:004][194]LogContentValidation: Display: Validating Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-18.10.32:210][321]BlueprintLog: New page: Compile Collectible_BP
+[2021.05.27-18.10.32:288][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.05.27-18.10.32:810][368]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BPFDA04B164AE1DC9E14B94F83534A16F2.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Actors_BPs/Collectible_BP.uasset'
+[2021.05.27-18.10.32:845][368]AssetCheck: New page: Asset Save: Collectible_BP
+[2021.05.27-18.10.32:845][368]LogContentValidation: Display: Validating Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-18.10.42:313][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-18.10.42:323][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-18.10.42:323][434]PIE: New page: PIE session: Game (May 27, 2021, 12:10:42 PM)
+[2021.05.27-18.10.42:323][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-18.10.42:417][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094024s)
+[2021.05.27-18.10.42:419][434]LogAIModule: Creating AISystem for world Game
+[2021.05.27-18.10.42:420][434]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2021.05.27-18.10.42:420][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.096564s)
+[2021.05.27-18.10.42:455][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.27-18.10.42:460][434]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.27-18.10.42:460][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-18.10.42:461][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-18.10.42:461][434]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-18.10.42:461][434]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-18.10.42:465][434]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-18.10.42:465][434]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-18.10.42:477][434]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-18.10.42:477][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-18.10.42:478][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-18.10.42:478][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-18.10.42:478][434]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-18.10.42:478][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-18.10.42:478][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-18.10.42:496][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-18.10.42:496][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-18.10.42:496][434]LogInit: FAudioDevice initialized.
+[2021.05.27-18.10.42:496][434]LogAudio: Display: Audio Device (ID: 6) registered with world 'Game'.
+[2021.05.27-18.10.42:506][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-18.10.42:512][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-15.10.42
+[2021.05.27-18.10.42:513][434]LogWorld: Bringing up level for play took: 0.006156
+[2021.05.27-18.10.42:513][434]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.05.27-18.10.42:517][434]PIE: Server logged in
+[2021.05.27-18.10.42:518][434]PIE: Play in editor total start time 0.199 seconds.
+[2021.05.27-18.10.51:604][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-18.10.51:605][499]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2021.05.27-18.10.51:606][499]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-18.10.51:607][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-18.10.51:618][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-18.10.51:626][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-18.10.51:658][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-18.10.51:658][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-18.10.51:659][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-18.10.51:682][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-18.10.51:689][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.27-18.10.51:718][500]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.27-18.11.02:224][476]LogEditorTransaction: Undo Set Vector Property
+[2021.05.27-18.11.37:793][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.05.27-18.11.38:067][629]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Game_Auto1A6524B4E4DFE01F379EC9E9CEBB39EF7.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Autosaves/Game/Maps/Game_Auto1.umap'
+[2021.05.27-18.11.38:070][629]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Game' took 0.320
+[2021.05.27-18.11.38:070][629]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.320
+[2021.05.27-18.11.38:070][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors_BPs/Collectible_BP] ([2] browsable assets)...
+[2021.05.27-18.11.38:085][629]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP]
+[2021.05.27-18.11.38:098][629]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP]
+[2021.05.27-18.11.38:098][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors_BPs/Collectible_BP]
+[2021.05.27-18.11.38:123][629]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BP_Auto1F2B185D5432F084C2F3E0C895FDB37CA.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Autosaves/Game/Actors_BPs/Collectible_BP_Auto1.uasset'
+[2021.05.27-18.11.38:124][629]LogFileHelpers: Auto-saving content packages took 0.054
+[2021.05.27-18.13.03:438][157]BlueprintLog: New page: Compile Collectible_BP
+[2021.05.27-18.13.03:506][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.27-18.13.03:841][185]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BP0402515C4D3176BAF222939EF3812735.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Actors_BPs/Collectible_BP.uasset'
+[2021.05.27-18.13.03:853][185]AssetCheck: New page: Asset Save: Collectible_BP
+[2021.05.27-18.13.03:853][185]LogContentValidation: Display: Validating Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-18.13.15:651][489]BlueprintLog: New page: Compile Collectible_BP
+[2021.05.27-18.13.15:714][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.05.27-18.13.16:378][531]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BP3C826F374AF4F4D492F2E5AD39004568.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Actors_BPs/Collectible_BP.uasset'
+[2021.05.27-18.13.16:389][531]AssetCheck: New page: Asset Save: Collectible_BP
+[2021.05.27-18.13.16:389][531]LogContentValidation: Display: Validating Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-18.20.43:885][162]BlueprintLog: New page: Compile Collectible_BP
+[2021.05.27-18.20.43:955][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.05.27-18.20.44:369][198]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collectible_BP9117785544FC6D0CAE5C2FBC02D85317.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Actors_BPs/Collectible_BP.uasset'
+[2021.05.27-18.20.44:384][198]AssetCheck: New page: Asset Save: Collectible_BP
+[2021.05.27-18.20.44:384][198]LogContentValidation: Display: Validating Blueprint /Game/Actors_BPs/Collectible_BP.Collectible_BP
+[2021.05.27-18.20.45:513][312]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-18.20.45:521][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-18.20.45:521][312]PIE: New page: PIE session: Game (May 27, 2021, 12:20:45 PM)
+[2021.05.27-18.20.45:521][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2021.05.27-18.20.45:603][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082282s)
+[2021.05.27-18.20.45:604][312]LogAIModule: Creating AISystem for world Game
+[2021.05.27-18.20.45:604][312]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2021.05.27-18.20.45:604][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.083860s)
+[2021.05.27-18.20.45:642][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.05.27-18.20.45:644][312]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-18.20.45:644][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-18.20.45:644][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-18.20.45:645][312]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-18.20.45:645][312]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-18.20.45:649][312]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-18.20.45:649][312]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-18.20.45:660][312]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.05.27-18.20.45:660][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-18.20.45:661][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-18.20.45:661][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-18.20.45:661][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-18.20.45:661][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-18.20.45:661][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-18.20.45:678][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-18.20.45:678][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-18.20.45:678][312]LogInit: FAudioDevice initialized.
+[2021.05.27-18.20.45:678][312]LogAudio: Display: Audio Device (ID: 7) registered with world 'Game'.
+[2021.05.27-18.20.45:689][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.27-18.20.45:694][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2021.05.27-15.20.45
+[2021.05.27-18.20.45:695][312]LogWorld: Bringing up level for play took: 0.004169
+[2021.05.27-18.20.45:695][312]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.27-18.20.45:698][312]PIE: Server logged in
+[2021.05.27-18.20.45:698][312]PIE: Play in editor total start time 0.18 seconds.
+[2021.05.27-18.20.49:584][760]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Collectible_BP_C.ExecuteUbergraph_Collectible_BP
+Collectible_BP_C.BndEvt__Collectible_BP_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2021.05.27-18.20.53:534][760]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.951 s
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: 
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: Ensure condition failed: TickMode == ETickMode::Automatic [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Components/WidgetComponent.cpp] [Line: 923]
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: 
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: Stack: 
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0c2be939 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0c200d76 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0c265aa3 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10b32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10da8176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dbf7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10d96b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dc1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10b32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffb10dc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf61cc435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf60c120b UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:544][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6600082 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6645eea UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf666d3a1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6655e98 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf65c92a4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf65b7067 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf65e5853 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6540b43 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6575244 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf739297e UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf739b56f UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0e69ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0e69f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffb0e6b08fd UE4Editor-Core.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf73b8464 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf73bedaa UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6adad8f UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffaf6ae55f7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffafbfd9423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffafc8f50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ff6f2859bc2 UE4Editor.exe!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ff6f287117c UE4Editor.exe!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ff6f287125a UE4Editor.exe!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ff6f28852bd UE4Editor.exe!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ff6f2887fea UE4Editor.exe!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffb82ed7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: [Callstack] 0x00007ffb84b62651 ntdll.dll!UnknownFunction []
+[2021.05.27-18.20.53:545][760]LogOutputDevice: Error: 

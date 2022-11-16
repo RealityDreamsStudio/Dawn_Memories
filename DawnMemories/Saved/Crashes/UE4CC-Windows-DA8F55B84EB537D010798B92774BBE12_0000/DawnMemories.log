@@ -1,0 +1,1628 @@
+﻿Log file open, 11/10/21 12:14:07
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DawnMemories
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218920
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin XRVisualization
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:629][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:5000]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-15.14.07:635][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-15.14.07:636][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-15.14.07:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-15.14.07:636][  0]LogHAL: Display: Platform has ~ 16 GB [17113944064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.10-15.14.07:636][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.11.10-15.14.07:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-15.14.07:637][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.10-15.14.07:638][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.10-15.14.07:638][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.10-15.14.07:638][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.10-15.14.07:638][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Engine.ini]
+[2021.11.10-15.14.07:638][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Config/Windows/Editor.ini]
+[2021.11.10-15.14.07:638][  0]LogInit: Computer: DESKTOP-15US14O
+[2021.11.10-15.14.07:638][  0]LogInit: User: User
+[2021.11.10-15.14.07:638][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.10-15.14.07:638][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-15.14.07:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.10-15.14.07:638][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-15.14.07:638][  0]LogMemory: Process Physical Memory: 139.78 MB used, 139.78 MB peak
+[2021.11.10-15.14.07:638][  0]LogMemory: Process Virtual Memory: 121.45 MB used, 121.45 MB peak
+[2021.11.10-15.14.07:638][  0]LogMemory: Physical Memory: 8042.66 MB used,  8278.46 MB free, 16321.13 MB total
+[2021.11.10-15.14.07:638][  0]LogMemory: Virtual Memory: 134197784.00 MB used,  19941.70 MB free, 134217728.00 MB total
+[2021.11.10-15.14.07:643][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.10-15.14.07:680][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.10-15.14.07:681][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.11.10-15.14.07:681][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.11.10-15.14.07:855][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-15.14.07:862][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.10-15.14.07:872][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-15.14.07:872][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-15.14.07:988][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-15.14.07:988][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.10-15.14.07:988][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.10-15.14.07:988][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-15.14.08:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.11.10-15.14.08:083][  0]LogD3D11RHI:       3955/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.10-15.14.08:086][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-15.14.08:086][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-15.14.08:086][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-15.14.08:091][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-15.14.08:091][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-15.14.08:091][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-15.14.08:091][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.11.10-15.14.08:092][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.11.10-15.14.08:092][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.11.10-15.14.08:092][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.11.10-15.14.08:092][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.10-15.14.08:092][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.11.10-15.14.08:092][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.10-15.14.08:092][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.10-15.14.08:092][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.11.10-15.14.08:155][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.10-15.14.08:155][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-15.14.08:155][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.10-15.14.08:170][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.10-15.14.08:170][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.10-15.14.08:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.10-15.14.08:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.10-15.14.08:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.10-15.14.08:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.10-15.14.08:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.10-15.14.08:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.10-15.14.08:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.10-15.14.08:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.10-15.14.08:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.10-15.14.08:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.10-15.14.08:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.10-15.14.08:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.10-15.14.08:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.10-15.14.08:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.10-15.14.08:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.10-15.14.08:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.10-15.14.08:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.10-15.14.08:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.10-15.14.08:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.10-15.14.08:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.10-15.14.08:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.10-15.14.08:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.10-15.14.08:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.10-15.14.08:662][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-15.14.08:668][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.10-15.14.08:723][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.10-15.14.08:723][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Intermediate/Shaders/WorkingDirectory/17484/).
+[2021.11.10-15.14.08:723][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/2858AD7642F3408C421693A3598EC079/'.
+[2021.11.10-15.14.08:723][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.11.10-15.14.09:427][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-15.14.09:475][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-15.14.09:475][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.10-15.14.09:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-15.14.09:476][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-15.14.09:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-15.14.09:476][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-15.14.09:487][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-15.14.09:487][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-15.14.09:487][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.10-15.14.09:536][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2021.11.10-15.14.09:536][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=332.97MBs, RandomWriteSpeed=19.97MBs. Assigned SpeedClass 'Local'
+[2021.11.10-15.14.09:536][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-15.14.09:536][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-15.14.09:536][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-15.14.09:581][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.10-15.14.09:581][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-15.14.09:602][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.11.10-15.14.09:814][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-15.14.09:814][  0]LogInit: Active device profile: [00000249BF9E2F00][00000249A1897A40 49] Windows
+[2021.11.10-15.14.09:814][  0]LogInit: Profiles: [00000249BF9E2F00][00000249A1897A40 49] Windows, [00000249BF9F1300][00000249BE5B9B80 49] WindowsNoEditor, [00000249BF9E1300][00000249BE5C1D00 49] WindowsServer, [00000249BF9F2A00][00000249BE5C41C0 49] WindowsClient, [00000249BF9E2900][00000249BE5C8340 49] IOS, [00000249BF9F3F00][00000249BE5CC4C0 49] iPadAir, [00000249BF9E3E00][00000249BE5D0640 49] iPadAir2, [00000249BF96C700][00000249BE5D8900 49] IPadPro, [00000249BF96C800][00000249BE5D4940 49] iPadAir3, [00000249BF9E3100][00000249BE5DCAC0 49] iPadAir4, [00000249BF96EE00][00000249BE5E0C40 49] iPadMini2, [00000249BF9E1100][00000249BE5E4DC0 49] iPadMini3, [00000249BF96E000][00000249BE5E8F40 49] iPadMini4, [00000249BF9E0700][00000249BE5ED0C0 49] iPadMini5, [00000249BF96BF00][00000249BE5F5380 49] iPhone6, [00000249BF96BE00][00000249BE5F13C0 49] iPodTouch6, [00000249BF9F2C00][00000249BE5FD680 49] iPhone7, [00000249BF96EA00][00000249BE5F96C0 49] iPodTouch7, [00000249BF969600][00000249BE5BD800 49] iPhone5S, [00000249BF96D200][00000249BE601940 49] iPhone6Plus, [00000249BF96BC00][00000249BE605A80 49] iPhone6S, [00000249BF96FE00][00000249BE609BC0 49] iPhone6SPlus, [00000249BF969A00][00000249BE611D40 49] iPhone7Plus, [00000249BF96FF00][00000249BE61E200 49] iPhoneSE, [00000249BF96A600][00000249BE622380 49] iPhone8, [00000249BF96F300][00000249BE626500 49] iPhone8Plus, [00000249BF969D00][00000249BE62A680 49] iPhoneX, [00000249BF96D800][00000249BE62E800 49] iPhoneXS, [00000249BF96A300][00000249BE632980 49] iPhoneXSMax, [00000249BF96F800][00000249BE636B00 49] iPhoneXR, [00000249BF96A000][00000249BE63AC80 49] iPhone11, [00000249BF96DB00][00000249BE63EE00 49] iPhone11Pro, [00000249BF969500][00000249BE642F80 49] iPhone11ProMax, [00000249BF96DC00][00000249BE647100 49] iPhoneSE2, [00000249BF968800][00000249BE64B280 49] iPhone12Mini, [00000249BF96E200][00000249BE64F400 49] iPhone12, [00000249BF969800][00000249BE653580 49] iPhone12Pro, [00000249BF96EC00][00000249BE657700 49] iPhone12ProMax, [00000249BF969C00][00000249BE65B880 49] iPadPro105, [00000249BF96D700][00000249BE60D9C0 49] iPadPro129, [00000249BF968C00][00000249BDE51B00 49] iPadPro97, [00000249BF96DF00][00000249BDE55C40 49] iPadPro2_129, [00000249BF96B100][00000249BDE5C100 49] iPad5, [00000249BF96F700][00000249BDE60280 49] iPad6, [00000249BF968B00][00000249BDE64400 49] iPad7, [00000249BF96CB00][00000249BDE68580 49] iPad8, [00000249BF96A900][00000249BDE6C700 49] iPadPro11, [00000249BF96CE00][00000249BDE70880 49] iPadPro2_11, [00000249BF968200][00000249BDE74A00 49] iPadPro3_129, [00000249BF96EF00][00000249BDE78B80 49] iPadPro4_129, [00000249BF96AB00][00000249BDE7CD00 49] AppleTV, [00000249BF96DA00][00000249BDE80E80 49] AppleTV4K, [00000249BF96B900][00000249BDE85000 49] TVOS, [00000249BF96F600][00000249BDE89180 49] Mac, [00000249BF96BD00][00000249BDE8D300 49] MacClient, [00000249BF968F00][00000249BDE91480 49] MacNoEditor, [00000249BF9F3000][00000249BDE95600 49] MacServer, [00000249BF969400][00000249BDE99780 49] Linux, [00000249BF9F1C00][00000249BDE9D900 49] LinuxAArch64, [00000249BF96BB00][00000249BDE59A40 49] LinuxNoEditor, [00000249BF9F2600][00000249BDEA1B80 49] LinuxAArch64NoEditor, [00000249BEE94A00][00000249BDEA5CC0 49] LinuxClient, [00000249BF9F1E00][00000249BDEAC180 49] LinuxAArch64Client, [00000249BF96ED00][00000249BDEB0300 49] LinuxServer, [00000249BF9F0300][00000249BDEB4480 49] LinuxAArch64Server, [00000249BF96C900][00000249BDEB8600 49] Android, [00000249BF9F1F00][00000249BDEBC780 49] Android_Low, [00000249BF96F400][00000249BDEC0900 49] Android_Mid, [00000249BF9F0C00][00000249BDEC4A80 49] Android_High, [00000249BF96CD00][00000249BDEC8C00 49] Android_Default, [00000249BF9F3E00][00000249BDECCD80 49] Android_Adreno4xx, [00000249BF96C600][00000249BDED0F00 49] Android_Adreno5xx_Low, [00000249BF9F0100][00000249BDED5080 49] Android_Adreno5xx, [00000249BF96FA00][00000249BDED9200 49] Android_Adreno6xx, [00000249BF9F3600][00000249BDEDD380 49] Android_Adreno6xx_Vulkan, [00000249BF96EB00][00000249BDEE1500 49] Android_Mali_T6xx, [00000249BF9F3A00][00000249BDEE5680 49] Android_Mali_T7xx, [00000249BF96D500][00000249BDEE9800 49] Android_Mali_T8xx, [00000249BF9F2000][00000249BDEED980 49] Android_Mali_G71, [00000249BF96F100][00000249BDEA9AC0 49] Android_Mali_G72, [00000249BF9F2D00][00000249BDEF1C00 49] Android_Mali_G72_Vulkan, [00000249BF96CF00][00000249BDEF5D40 49] Android_Mali_G76, [00000249BF9F0E00][00000249BDEF81C0 49] Android_Mali_G76_Vulkan, [00000249BF96D000][00000249BDF00340 49] Android_Mali_G77, [00000249BF9F3700][00000249BDF044C0 49] Android_Mali_G77_Vulkan, [00000249BF96FB00][00000249BDF08640 49] Android_Vulkan_SM5, [00000249BF9F1600][00000249BDF0C7C0 49] Android_PowerVR_G6xxx, [00000249BF96FC00][00000249BDF10940 49] Android_PowerVR_GT7xxx, [00000249BF9F3900][00000249BDF14AC0 49] Android_PowerVR_GE8xxx, [00000249BF96C200][00000249BDF18C40 49] Android_PowerVR_GM9xxx, [00000249BF9F0A00][00000249BDF1CDC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000249BF96E800][00000249BDF20F40 49] Android_TegraK1, [00000249BF9F0F00][00000249BDF250C0 49] Android_Unknown_Vulkan, [00000249BF96D900][00000249BDF29240 49] Lumin, [00000249BF9F3800][00000249BDF2D3C0 49] Lumin_Desktop, [00000249BF96D400][00000249BDF31540 49] HoloLens, 
+[2021.11.10-15.14.09:913][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-15.14.09:913][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.10-15.14.09:913][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.10-15.14.09:913][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.10-15.14.09:913][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.10-15.14.09:926][  0]LogNetVersion: DawnMemories 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1455638840)
+[2021.11.10-15.14.10:313][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.10-15.14.10:866][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.552696 seconds
+[2021.11.10-15.14.10:871][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.10-15.14.10:871][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.10-15.14.10:871][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-15.14.11:172][  0]LogPython: Using Python 3.7.7
+[2021.11.10-15.14.12:045][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-15.14.12:049][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-15.14.12:121][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.11.10-15.14.12:121][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.11.10-15.14.12:121][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.11.10-15.14.12:391][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.12:391][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.12:397][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.12:399][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.12:411][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.12:416][  0]LogUProjectInfo: Found projects:
+[2021.11.10-15.14.12:517][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-15.14.12:517][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-15.14.12:547][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-15.14.12:618][  0]LogCollectionManager: Loaded 0 collections in 0.001790 seconds
+[2021.11.10-15.14.12:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Collections/' took 0.00s
+[2021.11.10-15.14.12:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Developers/User/Collections/' took 0.00s
+[2021.11.10-15.14.12:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Collections/' took 0.00s
+[2021.11.10-15.14.12:643][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-15.14.12:658][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-15.14.12:658][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-15.14.12:660][  0]LogWinDualShock: Error: Support Missing
+[2021.11.10-15.14.12:988][  0]LogEngine: Initializing Engine...
+[2021.11.10-15.14.12:989][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-15.14.12:989][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-15.14.12:990][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.10-15.14.13:084][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.10-15.14.13:094][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-15.14.13:103][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.10-15.14.13:106][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.10-15.14.13:106][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.14.13:106][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.14.13:107][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.14.13:107][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.14.13:107][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.14.13:119][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.14.13:119][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.14.13:142][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.14.13:144][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.14.13:146][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.14.13:146][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.14.13:147][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.14.13:147][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.14.13:147][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.14.13:148][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.14.13:148][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.14.13:148][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-15.14.13:148][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.10-15.14.13:148][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.10-15.14.13:630][  0]LogDerivedDataCache: Saved boot cache 0.48s 77MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-15.14.13:633][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-15.14.13:643][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.10-15.14.13:646][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-15.14.13:646][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.10-15.14.13:648][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.10-15.14.13:681][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-15.14.13:700][  0]BlueprintLog: New page: Editor Load
+[2021.11.10-15.14.13:764][  0]LocalizationService: Localization service is disabled
+[2021.11.10-15.14.13:784][  0]TimingProfiler: Initialize
+[2021.11.10-15.14.13:784][  0]TimingProfiler: OnSessionChanged
+[2021.11.10-15.14.13:784][  0]LoadingProfiler: Initialize
+[2021.11.10-15.14.13:784][  0]LoadingProfiler: OnSessionChanged
+[2021.11.10-15.14.13:784][  0]NetworkingProfiler: Initialize
+[2021.11.10-15.14.13:784][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.10-15.14.13:784][  0]MemoryProfiler: Initialize
+[2021.11.10-15.14.13:784][  0]MemoryProfiler: OnSessionChanged
+[2021.11.10-15.14.13:907][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.10-15.14.13:907][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-15.14.14:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/' took 0.05s
+[2021.11.10-15.14.14:239][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.10-15.14.14:242][  0]SourceControl: Source control is disabled
+[2021.11.10-15.14.14:242][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.681
+[2021.11.10-15.14.14:242][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/Maps/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-15.14.14:242][  0]LightingResults: New page: Lighting Build
+[2021.11.10-15.14.14:243][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.14.14:244][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.14.14:244][  0]MapCheck: New page: Map Check
+[2021.11.10-15.14.14:244][  0]LightingResults: New page: Lighting Build
+[2021.11.10-15.14.14:250][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.10-15.14.17:934][  0]LogLinker: Warning: Asset '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.10-15.14.27:661][  0]LogDerivedDataCache: Warning: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.01MB/s) when accessing C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/MATSM_01BF92A5B29A44BE8A839E4251DA49D7_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8B34AC9E93833BC834F19142B5D697119A8D4769.udd, consider disabling it.
+[2021.11.10-15.14.27:760][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2021.11.10-15.14.27:761][  0]LogAIModule: Creating AISystem for world Game
+[2021.11.10-15.14.27:849][  0]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.14.27:849][  0]r.LightFunctionQuality = "1"
+[2021.11.10-15.14.27:852][  0]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/Maps/Game.Game:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.14.27:852][  0]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.14.27:852][  0]r.LightFunctionQuality = "1"
+[2021.11.10-15.14.27:854][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Maps/InitialPart) is flushing async loading
+[2021.11.10-15.14.27:855][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.10-15.14.28:056][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-15.14.28:119][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.10-15.14.28:121][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-15.14.28:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2021.11.10-15.14.28:121][  0]LogFileHelpers: Loading map 'Game' took 13.879
+[2021.11.10-15.14.28:123][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.562
+[2021.11.10-15.14.28:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.14.28:292][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3705 classes and 906 folders.
+[2021.11.10-15.14.28:296][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.10-15.14.28:299][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-15.14.28:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-15.14.28:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-15.14.28:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.10-15.14.28:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-15.14.28:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-15.14.28:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-15.14.28:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-15.14.28:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-15.14.28:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-15.14.28:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-15.14.28:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-15.14.28:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.11.10-15.14.28:305][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-15.14.28:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-15.14.28:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-15.14.28:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-15.14.28:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-15.14.28:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-15.14.28:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-15.14.28:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-15.14.28:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-15.14.28:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-15.14.28:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-15.14.28:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-15.14.28:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.10-15.14.28:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-15.14.28:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.10-15.14.28:312][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-15.14.28:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-15.14.28:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.10-15.14.28:312][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-15.14.28:313][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-15.14.28:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-15.14.28:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.10-15.14.28:374][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-15.14.28:385][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.10-15.14.28:618][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-15.14.28:621][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-15.14.28:710][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-15.14.28:730][  0]LogRenderer: Reallocating scene render targets to support 1148x456 Format 9 NumSamples 1 (Frame:1).
+[2021.11.10-15.14.28:829][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.10-15.14.28:830][  0]LogLoad: (Engine Initialization) Total time: 22.27 seconds
+[2021.11.10-15.14.28:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-15.14.28:830][  0]LogInit: First time updating LLM stats...
+[2021.11.10-15.14.28:845][  0]LogWinDualShock: Input Device Created
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_17)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_18)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_22)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_34)
+[2021.11.10-15.14.29:053][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_35)
+[2021.11.10-15.14.29:060][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.11.10-15.14.29:080][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/' took 0.22s
+[2021.11.10-15.14.29:105][  1]LogAssetRegistry: Asset discovery search completed in 19.5026 seconds
+[2021.11.10-15.14.29:107][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.11.10-15.14.30:885][121]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-15.14.37:525][588]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-15.14.37:541][588]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-15.14.46:024][204]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Maps/Game.Game:PersistentLevel.Game
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:180][204]LogEnum: Warning: Enum name collision: 'ALS_MovementAction::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_MovementState::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator12' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator13' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator14' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator15' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator5' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator10' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator6' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator7' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator8' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator9' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator11' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:181][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator12' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator13' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator14' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator15' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator5' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator10' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator6' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator7' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator8' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator9' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_OverlayState::NewEnumerator11' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.11.10-15.14.46:182][204]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_Stance::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::FootstepType_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:183][204]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'GroundedEntryState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'GroundedEntryState::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'GroundedEntryState::GroundedEntryState_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'GroundedEntryState::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'GroundedEntryState::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator5' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::HipsDirection_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:184][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator4' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'HipsDirection::NewEnumerator5' is in both '/Game/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/HipsDirection.HipsDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::MovementDirection_MAX' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator2' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:185][204]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator3' is in both '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection' and '/Game/ThirdPersonBP/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.11.10-15.14.46:215][204]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.10-15.14.47:175][204]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-15.14.49:149][329]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.10-15.14.49:266][341]LogSlate: Window 'Game' being destroyed
+[2021.11.10-15.15.04:480][770]BlueprintLog: New page: Compile Game
+[2021.11.10-15.15.04:628][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.11.10-15.15.04:692][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.10-15.15.04:954][770]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Game2E5C81454538B453F6EFC1BAA6C9D190.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/Maps/Game.umap'
+[2021.11.10-15.15.04:972][770]LogFileHelpers: Saving map 'Game' took 0.311
+[2021.11.10-15.15.04:985][770]AssetCheck: New page: Asset Save: Game
+[2021.11.10-15.15.04:985][770]LogContentValidation: Display: Validating World /Game/Levels/Maps/Game.Game
+[2021.11.10-15.15.05:016][770]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-15.15.06:700][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.10-15.15.07:395][898]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.15.07:395][898]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.15.07:396][898]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.15.07:396][898]r.LightFunctionQuality = "1"
+[2021.11.10-15.15.07:398][898]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.15.07:398][898]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.15.07:398][898]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.15.07:399][898]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.15.07:399][898]r.LightFunctionQuality = "1"
+[2021.11.10-15.15.07:448][898]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2021.11.10-15.15.07:448][898]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-15.15.07:448][898]LightingResults: New page: Lighting Build
+[2021.11.10-15.15.07:448][898]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_17)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_18)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_22)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_34)
+[2021.11.10-15.15.07:449][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/Levels/Maps/Game.Game:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_35)
+[2021.11.10-15.15.07:896][898]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.15.07:896][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.15.07:940][898]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.15.07:940][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.15.07:940][898]LogWorld: UWorld::CleanupWorld for InitialPart, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.15.07:940][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.15.07:941][898]MapCheck: New page: Map Check
+[2021.11.10-15.15.07:941][898]LightingResults: New page: Lighting Build
+[2021.11.10-15.15.07:966][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.15.07:986][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.11.10-15.15.07:988][898]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.11.10-15.15.07:998][898]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.15.07:998][898]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.15.07:998][898]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.15.07:998][898]r.LightFunctionQuality = "1"
+[2021.11.10-15.15.08:001][898]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.15.08:001][898]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.15.08:001][898]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.15.08:002][898]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.15.08:002][898]r.LightFunctionQuality = "1"
+[2021.11.10-15.15.08:206][898]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-15.15.08:206][898]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.15.08:238][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.10-15.15.08:255][898]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-15.15.08:255][898]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2021.11.10-15.15.08:255][898]LogFileHelpers: Loading map 'MainMenu' took 0.806
+[2021.11.10-15.15.08:327][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.10-15.15.13:058][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.10-15.15.14:710][258]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-15.20.40:472][751]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/MainMenu/CinematicMainMenu.CinematicMainMenu
+[2021.11.10-15.21.16:813][612]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/CinematicMainMenuE5D9D2BA401B58E7910B22B3AD2EDD48.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/MainMenu/CinematicMainMenu.uasset'
+[2021.11.10-15.21.16:831][612]AssetCheck: New page: Asset Save: CinematicMainMenu
+[2021.11.10-15.21.16:832][612]LogContentValidation: Display: Validating LevelSequence /Game/Levels/MainMenu/CinematicMainMenu.CinematicMainMenu
+[2021.11.10-15.26.56:026][291]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/CinematicMainMenuB94D569F41E9A13CECDB809154949D56.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/MainMenu/CinematicMainMenu.uasset'
+[2021.11.10-15.26.56:046][291]AssetCheck: New page: Asset Save: CinematicMainMenu
+[2021.11.10-15.26.56:046][291]LogContentValidation: Display: Validating LevelSequence /Game/Levels/MainMenu/CinematicMainMenu.CinematicMainMenu
+[2021.11.10-15.27.45:102][854]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.28.01:218][283]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.28.01:351][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.11.10-15.28.01:397][283]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A2BB14DF04E7E6A1E24E35E85EF306ACE.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.28.01:438][283]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.28.01:438][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.28.01:811][308]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A489157C341ECC5BEC944608E8AC8620E.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.28.01:825][308]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.28.01:825][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.28.06:679][875]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.28.06:691][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.28.06:691][875]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:28:06 AM)
+[2021.11.10-15.28.06:692][875]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.10-15.28.06:693][875]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.10-15.28.06:693][875]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.28.06:707][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013904s)
+[2021.11.10-15.28.06:708][875]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.28.06:708][875]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2021.11.10-15.28.06:708][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.014912s)
+[2021.11.10-15.28.06:773][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.11.10-15.28.06:775][875]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.28.06:775][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.28.06:775][875]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.28.06:775][875]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.28.06:780][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.28.06:780][875]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.28.06:787][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.28.06:787][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.28.06:801][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.28.06:801][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.28.06:801][875]LogInit: FAudioDevice initialized.
+[2021.11.10-15.28.06:801][875]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.11.10-15.28.06:811][875]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.28.06:814][875]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.28.06
+[2021.11.10-15.28.06:815][875]LogWorld: Bringing up level for play took: 0.003781
+[2021.11.10-15.28.06:815][875]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.11.10-15.28.06:822][875]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.10-15.28.06:824][875]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.28.06:825][875]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.28.06:825][875]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.28.06:825][875]r.LightFunctionQuality = "1"
+[2021.11.10-15.28.06:826][875]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.28.06:826][875]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.28.06:826][875]PIE: Server logged in
+[2021.11.10-15.28.06:827][875]PIE: Play in editor total start time 0.137 seconds.
+[2021.11.10-15.28.08:898][ 65]Cmd: LevelEditor.ToggleImmersive
+[2021.11.10-15.28.08:923][ 66]LogRenderer: Reallocating scene render targets to support 1180x532 Format 9 NumSamples 1 (Frame:191).
+[2021.11.10-15.28.08:974][ 67]LogRenderer: Reallocating scene render targets to support 1364x672 Format 9 NumSamples 1 (Frame:193).
+[2021.11.10-15.28.09:012][ 68]LogRenderer: Reallocating scene render targets to support 1624x868 Format 9 NumSamples 1 (Frame:195).
+[2021.11.10-15.28.09:056][ 69]LogRenderer: Reallocating scene render targets to support 1668x904 Format 9 NumSamples 1 (Frame:197).
+[2021.11.10-15.28.09:098][ 70]LogRenderer: Reallocating scene render targets to support 1672x908 Format 9 NumSamples 1 (Frame:199).
+[2021.11.10-15.29.21:726][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.29.21:726][711]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.29.21:726][711]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.29.21:727][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.29.21:742][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.29.21:751][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.29.21:784][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.29.21:785][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.29.21:786][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.29.21:801][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.29.21:815][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.11.10-15.29.21:841][713]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 9 NumSamples 1 (Frame:61736).
+[2021.11.10-15.29.21:988][724]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.10-15.31.06:748][520]LogEditorViewport: Clicking on Actor (LMB): Ultra_Dynamic_Weather_C (Ultra_Dynamic_Weather)
+[2021.11.10-15.31.15:897][564]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.31.15:897][564]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.31.15:897][564]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.31.15:897][564]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.31.15:897][564]r.LightFunctionQuality = "1"
+[2021.11.10-15.31.18:609][871]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.31.18:609][871]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.31.18:609][871]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.31.18:609][871]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.31.18:609][871]r.LightFunctionQuality = "1"
+[2021.11.10-15.31.21:262][172]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.Ultra_Dynamic_Sky_2.Inside_Cloud_Fog after construction!
+[2021.11.10-15.31.21:262][172]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.31.21:263][172]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.31.21:263][172]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.31.21:263][172]r.LightFunctionQuality = "1"
+[2021.11.10-15.31.23:430][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.11.10-15.31.24:225][373]LogSlate: Window 'Save Content' being destroyed
+[2021.11.10-15.31.24:277][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.10-15.31.24:356][373]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu8D6667FB42FF2ED2616BA89255F6F91A.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/Levels/MainMenu/MainMenu.umap'
+[2021.11.10-15.31.24:374][373]LogFileHelpers: Saving map 'MainMenu' took 0.129
+[2021.11.10-15.31.24:387][373]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.10-15.31.24:387][373]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2021.11.10-15.31.25:039][433]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.31.25:051][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.31.25:051][433]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:31:25 AM)
+[2021.11.10-15.31.25:051][433]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.31.25:065][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014163s)
+[2021.11.10-15.31.25:066][433]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.31.25:066][433]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.11.10-15.31.25:066][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.015227s)
+[2021.11.10-15.31.25:102][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.11.10-15.31.25:102][433]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.31.25:103][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.31.25:103][433]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.31.25:103][433]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.31.25:108][433]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.31.25:108][433]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.31.25:114][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.31.25:114][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.31.25:129][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.31.25:129][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.31.25:129][433]LogInit: FAudioDevice initialized.
+[2021.11.10-15.31.25:129][433]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.11.10-15.31.25:139][433]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.31.25:142][433]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.31.25
+[2021.11.10-15.31.25:143][433]LogWorld: Bringing up level for play took: 0.003595
+[2021.11.10-15.31.25:143][433]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.10-15.31.25:146][433]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.31.25:146][433]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.31.25:146][433]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.31.25:146][433]r.LightFunctionQuality = "1"
+[2021.11.10-15.31.25:147][433]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.31.25:147][433]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.31.25:147][433]PIE: Server logged in
+[2021.11.10-15.31.25:147][433]PIE: Play in editor total start time 0.097 seconds.
+[2021.11.10-15.32.35:726][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.32.35:726][398]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.32.35:727][398]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.32.35:728][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.32.35:734][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.32.35:756][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.32.35:791][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.32.35:791][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.32.35:792][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.32.35:808][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.32.35:813][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.11.10-15.32.36:007][411]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.10-15.33.22:092][882]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.10-15.33.22:114][882]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.10-15.33.35:664][471]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> radioSubtitles
+[2021.11.10-15.33.35:665][471]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.10-15.33.41:584][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.33.43:756][236]LogSlate: Window 'radioSubtitles' being destroyed
+[2021.11.10-15.33.48:149][720]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.34.03:926][292]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.11.10-15.34.19:412][  0]LogEditorTransaction: Undo Changed Anchors
+[2021.11.10-15.34.19:946][ 14]Cmd: TRANSACTION UNDO
+[2021.11.10-15.34.19:946][ 14]LogEditorTransaction: Undo Paste clipboard contents
+[2021.11.10-15.34.47:670][871]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Objectives.Objectives
+[2021.11.10-15.38.23:125][297]LogSlate: Took 0.015676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.10-15.40.33:520][370]BlueprintLog: New page: Compile Subtitles
+[2021.11.10-15.40.33:581][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.11.10-15.40.33:615][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.40.33:621][370]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Subtitles0DA9834045F2C556737FAFBD3340470E.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.40.33:638][370]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.40.33:638][370]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.40.34:266][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.40.34:271][440]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Subtitles562D570A4C6C5A25E232B69B753E5C76.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.40.34:287][440]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.40.34:287][440]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.40.45:612][657]BlueprintLog: New page: Compile Subtitles
+[2021.11.10-15.40.45:688][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.11.10-15.40.45:748][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.40.45:754][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Subtitles05904B0D45D11E8B60CAE5A22114A384.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.40.45:774][657]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.40.45:774][657]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.40.46:249][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.40.46:255][706]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/SubtitlesEDA89FFA4D969292D55A79B81DC38901.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.40.46:269][706]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.40.46:269][706]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.40.57:197][886]LogEditorTransaction: Undo Edit Text
+[2021.11.10-15.40.57:567][895]LogEditorTransaction: Undo Edit Text
+[2021.11.10-15.41.08:655][101]BlueprintLog: New page: Compile Subtitles
+[2021.11.10-15.41.08:730][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.11.10-15.41.08:750][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.41.08:753][101]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/SubtitlesE32BDDC04559B1AD7767A3AC8BE975DD.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.41.08:767][101]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.41.08:767][101]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.41.09:233][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Subtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset" SILENT=true
+[2021.11.10-15.41.09:237][141]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/SubtitlesB48309D948C7FE89A5BFDB82E3E8EBD2.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/Subtitles.uasset'
+[2021.11.10-15.41.09:273][141]AssetCheck: New page: Asset Save: Subtitles
+[2021.11.10-15.41.09:273][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Subtitles.Subtitles
+[2021.11.10-15.41.30:561][265]BlueprintLog: New page: Compile radioSubtitles
+[2021.11.10-15.41.30:616][265]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.11.10-15.41.30:647][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.41.30:653][265]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles65A2D9004F9978386B707E9C06F26210.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.41.30:668][265]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.41.30:668][265]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.41.31:067][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.41.31:073][297]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitlesD7A7C7674A72E6D839E96DAD61FB7BDD.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.41.31:088][297]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.41.31:088][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.42.07:902][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2021.11.10-15.42.10:150][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.ALS_Base_CharacterBP
+[2021.11.10-15.44.18:618][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.11.10-15.44.18:621][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu/MainMenu' took 0.067
+[2021.11.10-15.44.18:622][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/MainMenu_Widget_A] ([1] browsable assets)...
+[2021.11.10-15.44.18:622][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/MainMenu_Widget_A]
+[2021.11.10-15.44.18:651][329]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A_Auto11358C2094CC02D228CE24DAE44CB04BB.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Autosaves/Game/UI/MainMenu/MainMenu_Widget_A_Auto1.uasset'
+[2021.11.10-15.44.18:674][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/radioSubtitles] ([2] browsable assets)...
+[2021.11.10-15.44.18:674][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/radioSubtitles]
+[2021.11.10-15.44.18:680][329]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles_Auto11ED7B74048E342B4FC526A94FB0F994E.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/Autosaves/Game/UI/MainMenu/radioSubtitles_Auto1.uasset'
+[2021.11.10-15.44.18:681][329]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.11.10-15.46.32:207][183]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.46.32:314][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.11.10-15.46.32:388][183]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_AC215990F44D18F0F72459B96FB99A44B.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.46.32:406][183]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.46.32:406][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.46.32:807][201]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A4CD929C243BFDF3149E34EAC38CF6683.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.46.32:826][201]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.46.32:826][201]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.47.20:752][576]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.47.20:860][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.11.10-15.47.20:928][576]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A27F52680481C714D527770B2E8A2E1B1.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.47.20:944][576]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.47.20:944][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.47.21:461][608]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A6F13CDAB4D35BA40692B8DB26C2B454A.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.47.21:478][608]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.47.21:478][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.47.24:027][856]BlueprintLog: New page: Compile radioSubtitles
+[2021.11.10-15.47.24:098][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.11.10-15.47.24:130][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.47.24:136][856]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles2682DD714ECFDE7992DBD3B3251699C5.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.47.24:150][856]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.47.24:150][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.47.24:547][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.47.24:553][885]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitlesCE0ECB554D5E0A44BB89FB888E5D8A7B.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.47.24:566][885]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.47.24:567][885]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.49.06:368][388]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.49.06:381][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.49.06:381][388]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:49:06 AM)
+[2021.11.10-15.49.06:381][388]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.49.06:396][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014417s)
+[2021.11.10-15.49.06:396][388]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.49.06:397][388]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2021.11.10-15.49.06:397][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.015619s)
+[2021.11.10-15.49.06:460][388]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.11.10-15.49.06:461][388]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.49.06:461][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.49.06:461][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.49.06:462][388]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.49.06:462][388]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.49.06:466][388]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.49.06:466][388]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.49.06:472][388]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.49.06:473][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.49.06:473][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.49.06:473][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.49.06:473][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.49.06:473][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.49.06:473][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.49.06:487][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.49.06:487][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.49.06:487][388]LogInit: FAudioDevice initialized.
+[2021.11.10-15.49.06:487][388]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2021.11.10-15.49.06:499][388]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.49.06:503][388]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.49.06
+[2021.11.10-15.49.06:504][388]LogWorld: Bringing up level for play took: 0.003888
+[2021.11.10-15.49.06:504][388]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.11.10-15.49.06:506][388]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.49.06:506][388]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.49.06:507][388]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.49.06:507][388]r.LightFunctionQuality = "1"
+[2021.11.10-15.49.06:507][388]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.49.06:508][388]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.49.06:508][388]PIE: Server logged in
+[2021.11.10-15.49.06:508][388]PIE: Play in editor total start time 0.128 seconds.
+[2021.11.10-15.49.08:068][560]Cmd: LevelEditor.ToggleImmersive
+[2021.11.10-15.49.18:585][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.49.18:585][698]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.49.18:586][698]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.49.18:586][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.49.18:607][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.49.18:626][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.49.18:672][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.49.18:672][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.49.18:673][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.49.18:688][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.49.18:694][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.10-15.49.18:861][711]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.11.10-15.50.13:392][458]BlueprintLog: New page: Compile radioSubtitles
+[2021.11.10-15.50.13:455][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.11.10-15.50.13:520][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.50.13:526][458]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles32F8725149896F5B58DB37A8058C4BCC.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.50.13:547][458]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.50.13:547][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.50.14:069][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.50.14:075][514]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitlesBA5A0F2141956C6EFDB42BBDA79F6899.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.50.14:089][514]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.50.14:089][514]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.50.28:068][923]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.50.28:169][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.11.10-15.50.28:233][923]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A4399A1CC43D45144C88F62A8D057DEBE.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.50.28:248][923]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.50.28:249][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.50.28:516][943]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A7205DAE9491D402F264BC7AFC510E0FD.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.50.28:530][943]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.50.28:530][943]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.50.28:965][986]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.50.28:977][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.50.28:977][986]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:50:28 AM)
+[2021.11.10-15.50.28:978][986]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.50.28:991][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013816s)
+[2021.11.10-15.50.28:992][986]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.50.28:992][986]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2021.11.10-15.50.28:992][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.014870s)
+[2021.11.10-15.50.29:047][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.11.10-15.50.29:047][986]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.50.29:047][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.50.29:047][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.50.29:048][986]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.50.29:048][986]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.50.29:052][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.50.29:052][986]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.50.29:058][986]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.50.29:058][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.50.29:058][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.50.29:058][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.50.29:059][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.50.29:059][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.50.29:059][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.50.29:072][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.50.29:072][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.50.29:072][986]LogInit: FAudioDevice initialized.
+[2021.11.10-15.50.29:073][986]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.11.10-15.50.29:120][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.50.29:120][986]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.50.29:124][986]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.50.29
+[2021.11.10-15.50.29:125][986]LogWorld: Bringing up level for play took: 0.004136
+[2021.11.10-15.50.29:126][986]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.10-15.50.29:127][986]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.10-15.50.29:128][986]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.50.29:128][986]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.50.29:143][986]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.50.29:145][986]r.LightFunctionQuality = "1"
+[2021.11.10-15.50.29:145][986]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.50.29:145][986]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.50.29:146][986]PIE: Server logged in
+[2021.11.10-15.50.29:147][986]PIE: Play in editor total start time 0.172 seconds.
+[2021.11.10-15.50.53:815][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.50.53:815][596]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.50.53:815][596]LogSlate: Window 'DawnMemories Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.10-15.50.53:821][596]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.50.53:822][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.50.53:831][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.50.53:852][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.50.53:902][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.50.53:903][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.50.53:904][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.50.53:924][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.11.10-15.50.54:074][609]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.10-15.51.02:035][470]BlueprintLog: New page: Compile radioSubtitles
+[2021.11.10-15.51.02:102][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.11.10-15.51.02:172][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.51.02:177][470]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitlesDED3A6F2493267E5B7EC9EA7E8693418.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.51.02:198][470]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.51.02:198][470]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.51.02:655][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.51.02:661][511]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles398FD67B470EBBA14FEC2CAE7563BE2D.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.51.02:676][511]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.51.02:676][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.51.05:069][770]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.51.05:082][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.51.05:082][770]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:51:05 AM)
+[2021.11.10-15.51.05:082][770]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.51.05:096][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013655s)
+[2021.11.10-15.51.05:096][770]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.51.05:096][770]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2021.11.10-15.51.05:097][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.014616s)
+[2021.11.10-15.51.05:151][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.11.10-15.51.05:152][770]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.51.05:152][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.51.05:152][770]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.51.05:152][770]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.51.05:156][770]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.51.05:156][770]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.51.05:162][770]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.51.05:162][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.51.05:162][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.51.05:162][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.51.05:163][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.51.05:163][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.51.05:163][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.51.05:176][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.51.05:176][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.51.05:176][770]LogInit: FAudioDevice initialized.
+[2021.11.10-15.51.05:176][770]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2021.11.10-15.51.05:220][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.51.05:221][770]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.51.05:224][770]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.51.05
+[2021.11.10-15.51.05:225][770]LogWorld: Bringing up level for play took: 0.003943
+[2021.11.10-15.51.05:225][770]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.11.10-15.51.05:227][770]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.10-15.51.05:228][770]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.51.05:228][770]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.51.05:283][770]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.51.05:283][770]r.LightFunctionQuality = "1"
+[2021.11.10-15.51.05:284][770]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.51.05:284][770]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.51.05:285][770]PIE: Server logged in
+[2021.11.10-15.51.05:286][770]PIE: Play in editor total start time 0.205 seconds.
+[2021.11.10-15.51.19:155][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.51.19:155][234]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.51.19:156][234]LogSlate: Window 'DawnMemories Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.10-15.51.19:159][234]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.51.19:160][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.51.19:168][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.51.19:188][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.51.19:236][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.51.19:236][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.51.19:237][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.51.19:257][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.11.10-15.51.19:408][247]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.11.10-15.51.30:796][433]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.51.30:898][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.11.10-15.51.30:951][433]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A5B75928D446D4B0D5D98D99115369A4B.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.51.30:965][433]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.51.30:965][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.51.31:448][461]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_A645635104C7CD02B18298E91447BC867.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.51.31:462][461]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.51.31:462][461]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.51.31:767][493]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.51.31:780][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.51.31:780][493]PIE: New page: PIE session: MainMenu (Nov 10, 2021, 10:51:31 AM)
+[2021.11.10-15.51.31:780][493]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.51.31:794][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013873s)
+[2021.11.10-15.51.31:795][493]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.10-15.51.31:795][493]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2021.11.10-15.51.31:795][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.014885s)
+[2021.11.10-15.51.31:850][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.11.10-15.51.31:851][493]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.51.31:851][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.51.31:851][493]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-15.51.31:851][493]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.51.31:855][493]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.51.31:855][493]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.51.31:861][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.51.31:861][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.51.31:875][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.51.31:875][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.51.31:875][493]LogInit: FAudioDevice initialized.
+[2021.11.10-15.51.31:875][493]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.11.10-15.51.31:905][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.51.31:905][493]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-15.51.31:909][493]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 30) at 2021.11.10-12.51.31
+[2021.11.10-15.51.31:909][493]LogWorld: Bringing up level for play took: 0.003797
+[2021.11.10-15.51.31:910][493]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.11.10-15.51.31:911][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.10-15.51.31:912][493]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 3.5
+[2021.11.10-15.51.31:912][493]r.VolumetricCloud.DistanceToSampleMaxCount = "3.5"
+[2021.11.10-15.51.31:912][493]Cmd: r.LightFunctionQuality 1
+[2021.11.10-15.51.31:912][493]r.LightFunctionQuality = "1"
+[2021.11.10-15.51.31:913][493]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-15.51.31:913][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-15.51.31:915][493]PIE: Server logged in
+[2021.11.10-15.51.31:916][493]PIE: Play in editor total start time 0.136 seconds.
+[2021.11.10-15.51.49:355][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.51.49:355][284]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2021.11.10-15.51.49:355][284]LogSlate: Window 'DawnMemories Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.10-15.51.49:360][284]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.51.49:361][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.51.49:367][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.51.49:389][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.51.49:437][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.51.49:438][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.51.49:439][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.51.49:460][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.11.10-15.51.49:583][297]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.10-15.52.55:819][813]BlueprintLog: New page: Compile radioSubtitles
+[2021.11.10-15.52.55:879][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.11.10-15.52.55:943][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.52.55:949][813]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitlesC6E93D8F404BFC852510BB9AEDA8D88B.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.52.55:969][813]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.52.55:969][813]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.52.56:325][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/radioSubtitles" FILE="../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset" SILENT=true
+[2021.11.10-15.52.56:331][836]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/radioSubtitles5D10B51542185DB5A014BDA130F69E4D.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/radioSubtitles.uasset'
+[2021.11.10-15.52.56:345][836]AssetCheck: New page: Asset Save: radioSubtitles
+[2021.11.10-15.52.56:345][836]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/radioSubtitles.radioSubtitles
+[2021.11.10-15.58.23:871][659]BlueprintLog: New page: Compile MainMenu_Widget_A
+[2021.11.10-15.58.23:985][659]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.11.10-15.58.24:054][659]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Saved/MainMenu_Widget_AD13970554737CA5B05D07B9EDD7518CE.tmp' to '../../../../../../Users/User/Documents/GitHub/dawn_memories_final/DawnMemories/Content/UI/MainMenu/MainMenu_Widget_A.uasset'
+[2021.11.10-15.58.24:069][659]AssetCheck: New page: Asset Save: MainMenu_Widget_A
+[2021.11.10-15.58.24:069][659]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu_Widget_A.MainMenu_Widget_A
+[2021.11.10-15.59.50:500][236]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.10-15.59.52:863][236]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.362 s
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: 
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: Stack: 
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: [Callstack] 0x00007fff31ead149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: [Callstack] 0x00007fff31d52141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:868][236]LogOutputDevice: Error: [Callstack] 0x00007fff31d50db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff31d5e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff31dd6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff31dd4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38dffc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38dffaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38e01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38e01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38e01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38dffaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38e01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38814a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:869][236]LogOutputDevice: Error: [Callstack] 0x00007fff38813dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38816d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff3874252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38817aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38bc977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38bfb93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38bca0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38c21e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fff38c21659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c9ae49 UE4Editor.exe!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007ff6d7cb117c UE4Editor.exe!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007ff6d7cb125a UE4Editor.exe!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007ff6d7cc52bd UE4Editor.exe!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007ff6d7cc7fea UE4Editor.exe!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fffa5227034 KERNEL32.DLL!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: [Callstack] 0x00007fffa6422651 ntdll.dll!UnknownFunction []
+[2021.11.10-15.59.52:870][236]LogOutputDevice: Error: 

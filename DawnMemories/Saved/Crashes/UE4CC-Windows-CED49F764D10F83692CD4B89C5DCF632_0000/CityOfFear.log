@@ -1,0 +1,1285 @@
+﻿Log file open, 08/26/21 22:03:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CityOfFear
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277071
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin DiscordMessenger
+LogPluginManager: Mounting plugin Replica
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin XRVisualization
+LogPluginManager: Mounting plugin Wwise
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:354][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-01.03.19:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-01.03.19:362][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-01.03.19:363][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-01.03.19:363][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.27-01.03.19:363][  0]LogHAL: Display: Platform has ~ 16 GB [17113944064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.27-01.03.19:363][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.08.27-01.03.19:363][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.27-01.03.19:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Engine.ini]
+[2021.08.27-01.03.19:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Config/Windows/Editor.ini]
+[2021.08.27-01.03.19:365][  0]LogInit: Computer: DESKTOP-15US14O
+[2021.08.27-01.03.19:365][  0]LogInit: User: User
+[2021.08.27-01.03.19:365][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.27-01.03.19:365][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.27-01.03.19:365][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.27-01.03.19:365][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.27-01.03.19:365][  0]LogMemory: Process Physical Memory: 139.25 MB used, 139.25 MB peak
+[2021.08.27-01.03.19:365][  0]LogMemory: Process Virtual Memory: 119.48 MB used, 119.48 MB peak
+[2021.08.27-01.03.19:365][  0]LogMemory: Physical Memory: 7702.75 MB used,  8618.38 MB free, 16321.13 MB total
+[2021.08.27-01.03.19:365][  0]LogMemory: Virtual Memory: 134198616.00 MB used,  19115.37 MB free, 134217728.00 MB total
+[2021.08.27-01.03.19:370][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.27-01.03.19:411][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.27-01.03.19:412][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.27-01.03.19:412][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.08.27-01.03.19:611][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.27-01.03.19:668][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-01.03.19:677][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.27-01.03.19:677][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.27-01.03.19:804][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.27-01.03.19:804][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.27-01.03.19:804][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.27-01.03.19:804][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.27-01.03.19:906][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.08.27-01.03.19:906][  0]LogD3D11RHI:       3955/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.27-01.03.19:909][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.27-01.03.19:909][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.27-01.03.19:909][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.27-01.03.19:916][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.27-01.03.19:916][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.27-01.03.19:916][  0]LogWindows: EnumDisplayDevices:
+[2021.08.27-01.03.19:916][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.08.27-01.03.19:917][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.27-01.03.19:917][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.27-01.03.19:917][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.27-01.03.19:917][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.27-01.03.19:917][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.08.27-01.03.19:917][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.27-01.03.19:917][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.27-01.03.19:917][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.08.27-01.03.19:996][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.27-01.03.19:996][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.27-01.03.19:996][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.27-01.03.20:014][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.27-01.03.20:015][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.27-01.03.20:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.27-01.03.20:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.27-01.03.20:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.27-01.03.20:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.27-01.03.20:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.27-01.03.20:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.27-01.03.20:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.27-01.03.20:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.27-01.03.20:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.27-01.03.20:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.27-01.03.20:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.27-01.03.20:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.27-01.03.20:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.27-01.03.20:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.27-01.03.20:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.27-01.03.20:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.27-01.03.20:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.27-01.03.20:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.27-01.03.20:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.27-01.03.20:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.27-01.03.20:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.27-01.03.20:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.27-01.03.20:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.27-01.03.20:533][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.27-01.03.20:540][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.27-01.03.20:598][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.27-01.03.20:598][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Intermediate/Shaders/WorkingDirectory/11788/).
+[2021.08.27-01.03.20:598][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/7C404A9F447CCC746418278EAE0F8B17/'.
+[2021.08.27-01.03.20:598][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.08.27-01.03.21:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-01.03.21:436][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.27-01.03.21:448][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.27-01.03.21:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-01.03.21:448][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.27-01.03.21:518][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2021.08.27-01.03.21:518][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=363.17MBs, RandomWriteSpeed=14.02MBs. Assigned SpeedClass 'Local'
+[2021.08.27-01.03.21:519][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.27-01.03.21:519][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.27-01.03.21:519][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.27-01.03.21:572][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.27-01.03.21:573][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.27-01.03.21:599][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.08.27-01.03.21:835][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-01.03.21:835][  0]LogInit: Active device profile: [000001D55BCCDB00][000001D54800F140 49] Windows
+[2021.08.27-01.03.21:836][  0]LogInit: Profiles: [000001D55BCCDB00][000001D54800F140 49] Windows, [000001D55BC76A00][000001D5480172C0 49] WindowsNoEditor, [000001D55BCCDD00][000001D559449440 49] WindowsServer, [000001D55BC74C00][000001D55944D5C0 49] WindowsClient, [000001D55BCCCE00][000001D559451740 49] IOS, [000001D55BC77B00][000001D548013880 49] iPadAir, [000001D55BCCF000][000001D53BF399C0 49] iPadAir2, [000001D55BC2AB00][000001D53BF41C00 49] IPadPro, [000001D55BC2AC00][000001D53BF3DC40 49] iPadAir3, [000001D55BCCD200][000001D53BF48100 49] iPadAir4, [000001D55BC2A800][000001D53BF4C280 49] iPadMini2, [000001D55BCCF100][000001D53BF62400 49] iPadMini3, [000001D55BC29800][000001D53BF78580 49] iPadMini4, [000001D55BCCEA00][000001D53BF7C700 49] iPadMini5, [000001D55BC6A400][000001D558EE89C0 49] iPhone6, [000001D55BC6A500][000001D558EE4A00 49] iPodTouch6, [000001D55BC74200][000001D558EF8CC0 49] iPhone7, [000001D55BC74500][000001D558EECD00 49] iPodTouch7, [000001D55BC6BC00][000001D558EFCE80 49] iPhone5S, [000001D55BC76300][000001D558F11000 49] iPhone6Plus, [000001D55BC69600][000001D558F19180 49] iPhone6S, [000001D55BC75E00][000001D558F23300 49] iPhone6SPlus, [000001D55BC68700][000001D558F2B480 49] iPhone7Plus, [000001D55BC75100][000001D558F2F600 49] iPhoneSE, [000001D55BC6B400][000001D558F3B780 49] iPhone8, [000001D55BC76200][000001D53BF458C0 49] iPhone8Plus, [000001D55BC68200][000001D558F5FA00 49] iPhoneX, [000001D55BC77000][000001D558F63B40 49] iPhoneXS, [000001D55BC6AF00][000001D558F67C80 49] iPhoneXSMax, [000001D55BC76B00][000001D558F6E140 49] iPhoneXR, [000001D55BC68D00][000001D559C902C0 49] iPhone11, [000001D55BC76D00][000001D558F9A440 49] iPhone11Pro, [000001D55BC6B200][000001D558FC65C0 49] iPhone11ProMax, [000001D55BC77E00][000001D558FD6740 49] iPhoneSE2, [000001D55BC6AD00][000001D558FE08C0 49] iPhone12Mini, [000001D55BC74100][000001D558FE4A40 49] iPhone12, [000001D55BC74A00][000001D558FE8BC0 49] iPhone12Pro, [000001D55BCCF500][000001D558FECD40 49] iPhone12ProMax, [000001D55BCCE400][000001D558FFEEC0 49] iPadPro105, [000001D55BC69200][000001D55900D040 49] iPadPro129, [000001D55BCCE000][000001D55901D1C0 49] iPadPro97, [000001D55BC6A100][000001D559021340 49] iPadPro2_129, [000001D55BCCCD00][000001D5590254C0 49] iPad5, [000001D55BC6B500][000001D559029640 49] iPad6, [000001D55BCCFF00][000001D55902D7C0 49] iPad7, [000001D55BC6B800][000001D559031940 49] iPad8, [000001D55BC77300][000001D558F6BA80 49] iPadPro11, [000001D55BC68400][000001D559035BC0 49] iPadPro2_11, [000001D55BC74F00][000001D559039D00 49] iPadPro3_129, [000001D55BC69B00][000001D5590401C0 49] iPadPro4_129, [000001D55BC75D00][000001D559044340 49] AppleTV, [000001D55BC68600][000001D5590484C0 49] AppleTV4K, [000001D55BC76800][000001D55904C640 49] TVOS, [000001D55BC68900][000001D559CB47C0 49] Mac, [000001D55BC74D00][000001D559CB8940 49] MacClient, [000001D55BC68100][000001D559CBCAC0 49] MacNoEditor, [000001D55BC75B00][000001D559CC0C40 49] MacServer, [000001D55BC6B700][000001D559CC4DC0 49] Linux, [000001D55BC77700][000001D559CC8F40 49] LinuxAArch64, [000001D55BC6B100][000001D559CCD0C0 49] LinuxNoEditor, [000001D55BC76500][000001D559CD1240 49] LinuxAArch64NoEditor, [000001D55BC69900][000001D559D013C0 49] LinuxClient, [000001D55BC74600][000001D559D05540 49] LinuxAArch64Client, [000001D55BC6A200][000001D559D096C0 49] LinuxServer, [000001D55BC75500][000001D559D0D840 49] LinuxAArch64Server, [000001D55BC6BD00][000001D559D119C0 49] Android, [000001D55BC74300][000001D55903DB00 49] Android_Low, [000001D55BC68C00][000001D559D15C40 49] Android_Mid, [000001D55BC74900][000001D559D180C0 49] Android_High, [000001D55BC6AB00][000001D559D20240 49] Android_Default, [000001D55BC76100][000001D559D243C0 49] Android_Adreno4xx, [000001D55BC68800][000001D559D28540 49] Android_Adreno5xx_Low, [000001D55BC74E00][000001D559D2C6C0 49] Android_Adreno5xx, [000001D55BC68E00][000001D559D30840 49] Android_Adreno6xx, [000001D55BC75700][000001D559D349C0 49] Android_Adreno6xx_Vulkan, [000001D55BC6BA00][000001D559D74B40 49] Android_Mali_T6xx, [000001D55BC76400][000001D559D78CC0 49] Android_Mali_T7xx, [000001D55BC69C00][000001D559D7CE40 49] Android_Mali_T8xx, [000001D55BC74700][000001D559D80FC0 49] Android_Mali_G71, [000001D55BC68B00][000001D559D85140 49] Android_Mali_G72, [000001D55BC75200][000001D559D892C0 49] Android_Mali_G72_Vulkan, [000001D55BC69000][000001D559D8D440 49] Android_Mali_G76, [000001D55BC75900][000001D559D915C0 49] Android_Mali_G76_Vulkan, [000001D55BC68300][000001D559D95740 49] Android_Mali_G77, [000001D55BC77900][000001D559D998C0 49] Android_Mali_G77_Vulkan, [000001D55BC69300][000001D559D9DA40 49] Android_Vulkan_SM5, [000001D55BCCCB00][000001D559D1DB80 49] Android_PowerVR_G6xxx, [000001D55BC28800][000001D559DA1CC0 49] Android_PowerVR_GT7xxx, [000001D55BCCEE00][000001D559DA4140 49] Android_PowerVR_GE8xxx, [000001D55BC2A900][000001D559DA8280 49] Android_PowerVR_GM9xxx, [000001D55BCCE200][000001D559DB0400 49] Android_PowerVR_GM9xxx_Vulkan, [000001D55BC28D00][000001D559DB4580 49] Android_TegraK1, [000001D55BCCF300][000001D559DB8700 49] Android_Unknown_Vulkan, [000001D55BC29400][000001D559DBC880 49] Lumin, [000001D55BCCEC00][000001D559DC0A00 49] Lumin_Desktop, [000001D55BC29B00][000001D559DC4B80 49] HoloLens, 
+[2021.08.27-01.03.21:875][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.27-01.03.21:875][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.27-01.03.21:875][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.27-01.03.21:875][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.27-01.03.21:875][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.27-01.03.21:951][  0]LogNetVersion: CityOfFear 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3763831798)
+[2021.08.27-01.03.22:440][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.27-01.03.22:502][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.061258 seconds
+[2021.08.27-01.03.22:508][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.08.27-01.03.22:508][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.08.27-01.03.22:508][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.27-01.03.22:969][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.08.27-01.03.23:111][  0]LogPython: Using Python 3.7.7
+[2021.08.27-01.03.23:925][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.27-01.03.23:929][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.27-01.03.24:147][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.24:227][  0]LogAkAudio: Wwise(R) SDK Version 2021.1.1 Build 7601. Copyright (c) 2006-2021 Audiokinetic Inc.
+[2021.08.27-01.03.24:227][  0]LogAkAudio: Wwise plug-in DLL path: C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/
+[2021.08.27-01.03.24:228][  0]LogAkAudio: Wwise remote connection application name: CityOfFear (Editor)
+[2021.08.27-01.03.24:228][  0]LogAkAudio: Wwise successfully initialized.
+[2021.08.27-01.03.24:229][  0]LogAkAudio: Error: Cannot open file: Init.bnk
+[2021.08.27-01.03.24:229][  0]LogAkAudio: Error: Bank Load Failed
+[2021.08.27-01.03.24:229][  0]LogAkAudio: Initialization complete.
+[2021.08.27-01.03.24:229][  0]LogInit: Audiokinetic Audio Device initialized.
+[2021.08.27-01.03.24:572][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.24:575][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.24:578][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.24:587][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.24:594][  0]LogUProjectInfo: Found projects:
+[2021.08.27-01.03.25:210][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.27-01.03.25:242][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-01.03.25:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-01.03.25:329][  0]LogCollectionManager: Loaded 0 collections in 0.001770 seconds
+[2021.08.27-01.03.25:355][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/Collections/' took 0.00s
+[2021.08.27-01.03.25:355][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Developers/User/Collections/' took 0.00s
+[2021.08.27-01.03.25:355][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Collections/' took 0.00s
+[2021.08.27-01.03.25:355][  0]LogOcInput: OculusInput pre-init called
+[2021.08.27-01.03.25:371][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.27-01.03.25:371][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.27-01.03.25:373][  0]LogWinDualShock: Error: Support Missing
+[2021.08.27-01.03.25:836][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.08.27-01.03.25:836][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.08.27-01.03.25:837][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.08.27-01.03.25:837][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.08.27-01.03.27:974][  0]LogEngine: Initializing Engine...
+[2021.08.27-01.03.27:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.27-01.03.27:976][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.27-01.03.27:977][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.27-01.03.28:218][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.27-01.03.28:229][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.27-01.03.28:238][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.27-01.03.28:242][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.27-01.03.28:242][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-01.03.28:242][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-01.03.28:242][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-01.03.28:243][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-01.03.28:243][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-01.03.28:253][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-01.03.28:253][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-01.03.28:279][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2021.08.27-01.03.28:282][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-01.03.28:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-01.03.28:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-01.03.28:284][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-01.03.28:284][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-01.03.28:284][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.27-01.03.28:285][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-01.03.28:285][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-01.03.28:285][  0]LogInit: FAudioDevice initialized.
+[2021.08.27-01.03.28:285][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.27-01.03.28:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.27-01.03.28:464][  0]LogDerivedDataCache: Saved boot cache 0.18s 87MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-01.03.28:465][  0]LogInit: Texture streaming: Enabled
+[2021.08.27-01.03.28:475][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.27-01.03.28:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.27-01.03.28:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.27-01.03.28:520][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.27-01.03.28:549][  0]LogInit: Transaction tracking system initialized
+[2021.08.27-01.03.28:568][  0]BlueprintLog: New page: Editor Load
+[2021.08.27-01.03.28:639][  0]LocalizationService: Localization service is disabled
+[2021.08.27-01.03.28:660][  0]TimingProfiler: Initialize
+[2021.08.27-01.03.28:660][  0]TimingProfiler: OnSessionChanged
+[2021.08.27-01.03.28:660][  0]LoadingProfiler: Initialize
+[2021.08.27-01.03.28:660][  0]LoadingProfiler: OnSessionChanged
+[2021.08.27-01.03.28:660][  0]NetworkingProfiler: Initialize
+[2021.08.27-01.03.28:660][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.27-01.03.28:660][  0]MemoryProfiler: Initialize
+[2021.08.27-01.03.28:660][  0]MemoryProfiler: OnSessionChanged
+[2021.08.27-01.03.28:818][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.27-01.03.28:818][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.27-01.03.29:378][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/' took 0.01s
+[2021.08.27-01.03.29:713][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.27-01.03.29:716][  0]SourceControl: Source control is disabled
+[2021.08.27-01.03.29:848][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.27-01.03.46:380][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.08.27-01.03.46:380][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-01.03.46:417][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-01.03.49:884][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.08.27-01.03.49:885][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-01.03.49:889][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/Game
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_LB
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_RB
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Lean_Falling
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_0
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_RB
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_LB
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_BR
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_BL
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_LF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_LF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_FL
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_RF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_RF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkRun_FR
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_0
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_Run_BasePose
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_Lean
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_F_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/BasePoses/ALS_N_Pose
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_D_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_U_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_CLF_GetUp_Back
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_CLF_GetUp_Front
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_LandRoll_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_1m_RH
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_1m_LH
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/BasePoses/ALS_CLF_Pose
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_Flail
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpLoop
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpRun_LF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpRun_RF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpWalk_LF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpWalk_RF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Heavy
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Heavy_Additive
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light_Additive
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_WalkPose
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F_Impulse
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_B
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_F
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_CLF_to_N
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_L_Down
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_R_Down
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_to_CLF
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Transition_L
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Transition_R
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_Rotate_L90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_Rotate_R90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_L180
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_L90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_R180
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_R90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_Rotate_L90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_Rotate_R90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_L180
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_L90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_R180
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_R90
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Barrel/ALS_Props_Barrel_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Box/ALS_Props_Box_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Sprint_F_Arms
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Sprint_F_Impulse_Arms
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Poses
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Shared/ALS_N_SecondaryMotion
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Feminine
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_HandsTied
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Injured
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Masculine
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Normal
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Poses_NoCurves
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Aim_Sweep
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Aim_Sweep_Crouched
+/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Poses
+[2021.08.27-01.03.50:019][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-01.03.50:019][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.544
+[2021.08.27-01.03.50:020][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/Levels/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.27-01.03.50:021][  0]LightingResults: New page: Lighting Build
+[2021.08.27-01.03.50:022][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.03.50:022][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.03.50:022][  0]MapCheck: New page: Map Check
+[2021.08.27-01.03.50:022][  0]LightingResults: New page: Lighting Build
+[2021.08.27-01.03.50:036][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.27-01.03.54:393][  0]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\ThirdPersonBP\Blueprints\Detective.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.27-01.03.54:394][  0]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\ThirdPersonBP\Blueprints\Detective.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.27-01.03.54:394][  0]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\ThirdPersonBP\Blueprints\Detective.uasset: [Compiler] InputAction Event references unknown Action 'ChangeCharacterCamera' for  InputAction ChangeCharacterCamera
+[2021.08.27-01.03.54:394][  0]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\ThirdPersonBP\Blueprints\Detective.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.27-01.04.04:657][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.08.27-01.04.04:657][  0]LogStaticMesh: Building static mesh CasaUnreal...
+[2021.08.27-01.04.05:519][  0]LogStaticMesh: Built static mesh [0.86s] /Game/Geometry/House_01/CasaUnreal.CasaUnreal
+[2021.08.27-01.04.05:790][  0]LogStaticMesh: Building static mesh Casa_pro_tiagao_juntinha...
+[2021.08.27-01.04.06:830][  0]LogStaticMesh: Built static mesh [1.04s] /Game/Geometry/House_00/Casa_pro_tiagao_juntinha.Casa_pro_tiagao_juntinha
+[2021.08.27-01.04.08:950][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2021.08.27-01.04.08:951][  0]LogAIModule: Creating AISystem for world Game
+[2021.08.27-01.04.09:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.27-01.04.09:073][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.08.27-01.04.09:074][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.27-01.04.09:075][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2021.08.27-01.04.09:075][  0]LogFileHelpers: Loading map 'Game' took 19.055
+[2021.08.27-01.04.09:075][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.08.27-01.04.09:104][  0]LogAssetRegistry: Asset discovery search completed in 0.0294 seconds
+[2021.08.27-01.04.09:287][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.08.27-01.04.09:289][  0]LogUnrealEdMisc: Total Editor Startup Time, took 51.814
+[2021.08.27-01.04.09:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-01.04.09:418][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3917 classes and 960 folders.
+[2021.08.27-01.04.09:567][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-01.04.09:621][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-01.04.09:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-01.04.09:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.27-01.04.09:673][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-01.04.09:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-01.04.09:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.27-01.04.09:694][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.27-01.04.09:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.27-01.04.09:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.27-01.04.09:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-01.04.09:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-01.04.09:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.27-01.04.09:751][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-01.04.09:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-01.04.09:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.27-01.04.09:781][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-01.04.09:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-01.04.09:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.27-01.04.09:792][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-01.04.09:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-01.04.09:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.27-01.04.09:804][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-01.04.09:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-01.04.09:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.27-01.04.09:825][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-01.04.09:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-01.04.09:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.27-01.04.09:838][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-01.04.09:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-01.04.09:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.27-01.04.09:853][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-01.04.09:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-01.04.09:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.27-01.04.09:871][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-01.04.09:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-01.04.09:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.08.27-01.04.09:879][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-01.04.09:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-01.04.09:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.08.27-01.04.09:894][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-01.04.09:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-01.04.09:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.08.27-01.04.09:908][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-01.04.09:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-01.04.09:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.08.27-01.04.09:914][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-01.04.09:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-01.04.09:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.08.27-01.04.09:954][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-01.04.09:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-01.04.09:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.08.27-01.04.09:971][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-01.04.09:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.09:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-01.04.09:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.08.27-01.04.10:003][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-01.04.10:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-01.04.10:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.08.27-01.04.10:019][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-01.04.10:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-01.04.10:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.08.27-01.04.10:039][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-01.04.10:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-01.04.10:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.08.27-01.04.10:080][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-01.04.10:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-01.04.10:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.08.27-01.04.10:094][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.27-01.04.10:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.27-01.04.10:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.08.27-01.04.10:145][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-01.04.10:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-01.04.10:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.08.27-01.04.10:165][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-01.04.10:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-01.04.10:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.08.27-01.04.10:177][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-01.04.10:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-01.04.10:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-01.04.10:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.08.27-01.04.12:887][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-01.04.12:896][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.27-01.04.13:043][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.27-01.04.13:064][  0]LogSlate: Took 0.017312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.27-01.04.13:112][  0]LogRenderer: Reallocating scene render targets to support 1120x620 Format 9 NumSamples 1 (Frame:1).
+[2021.08.27-01.04.13:175][  0]LogSlate: Took 0.016009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.27-01.04.13:319][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.27-01.04.13:321][  0]LogLoad: (Engine Initialization) Total time: 55.85 seconds
+[2021.08.27-01.04.13:321][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.27-01.04.13:321][  0]LogInit: First time updating LLM stats...
+[2021.08.27-01.04.13:331][  0]LogWinDualShock: Input Device Created
+[2021.08.27-01.04.13:477][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.08.27-01.04.13:497][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.08.27-01.04.14:335][ 76]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.27-01.04.16:491][275]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Vitima_Base_V1.Vitima_Base_V1
+[2021.08.27-01.04.16:497][275]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.08.27-01.04.19:324][275]LogSlate: Window 'Message' being destroyed
+[2021.08.27-01.04.19:328][275]Message dialog closed, result: No, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.08.27-01.04.19:333][275]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.08.27-01.04.19:626][275]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton
+[2021.08.27-01.04.19:709][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.04.19:948][275]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms.ALS_Props_M4A1_Run_F_Arms
+[2021.08.27-01.04.19:951][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.04.20:160][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:161][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:164][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:164][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:165][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:165][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:165][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:166][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:166][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:166][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:167][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:167][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:167][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:168][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:168][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:168][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:204][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:204][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:205][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:205][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:205][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:205][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:206][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:206][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:231][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:232][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:233][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:233][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:233][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:233][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:233][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:234][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:234][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:234][275]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:242][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:242][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast.ALS_N_FallLoop_Fast Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:243][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:243][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F.ALS_N_Sprint_F Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:244][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:244][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L.ALS_CRF_Walk_L Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:244][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:244][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R.ALS_CRF_Walk_R Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:244][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:244][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R.ALS_CLF_Walk_R Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:245][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:245][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L.ALS_CLF_Walk_L Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:245][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:245][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B.ALS_CLF_Walk_B Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:245][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:245][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F.ALS_CLF_Walk_F Referenced by Default__ALS_AnimBP_C
+[2021.08.27-01.04.20:298][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast': Can't find file.
+[2021.08.27-01.04.20:298][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast.ALS_N_FallLoop_Fast Referenced by AnimGraphNode_SequencePlayer_4
+[2021.08.27-01.04.20:314][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F': Can't find file.
+[2021.08.27-01.04.20:314][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F.ALS_N_Sprint_F Referenced by AnimGraphNode_SequencePlayer_0
+[2021.08.27-01.04.20:325][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F': Can't find file.
+[2021.08.27-01.04.20:325][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F.ALS_CLF_Walk_F Referenced by AnimGraphNode_SequencePlayer_0
+[2021.08.27-01.04.20:325][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B': Can't find file.
+[2021.08.27-01.04.20:325][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B.ALS_CLF_Walk_B Referenced by AnimGraphNode_SequencePlayer_1
+[2021.08.27-01.04.20:326][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:326][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L.ALS_CLF_Walk_L Referenced by AnimGraphNode_SequencePlayer_2
+[2021.08.27-01.04.20:326][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:326][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R.ALS_CLF_Walk_R Referenced by AnimGraphNode_SequencePlayer_3
+[2021.08.27-01.04.20:327][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R': Can't find file.
+[2021.08.27-01.04.20:327][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R.ALS_CRF_Walk_R Referenced by AnimGraphNode_SequencePlayer_4
+[2021.08.27-01.04.20:327][275]LogLinker: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L': Can't find file.
+[2021.08.27-01.04.20:327][275]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L.ALS_CRF_Walk_L Referenced by AnimGraphNode_SequencePlayer_7
+[2021.08.27-01.04.20:694][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_r  - Bone VB LHS_ik_hand_r not found in Skeleton
+[2021.08.27-01.04.20:694][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_l  - Bone VB RHS_ik_hand_l not found in Skeleton
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:717][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:733][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:743][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.04.20:888][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.04.20:889][275]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.04.20:905][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_31 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:905][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_28 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_10 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_7 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_8 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_6 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.20:906][275]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.04.21:214][275]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.ALS_AnimBP
+[2021.08.27-01.04.21:219][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:220][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.21:385][275]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.08.27-01.04.21:386][275]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.08.27-01.04.21:386][275]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.08.27-01.04.21:795][275]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.08.27-01.04.21:795][275]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.08.27-01.04.21:797][275]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.08.27-01.04.21:797][275]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.08.27-01.04.21:836][275]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.08.27-01.04.21:838][275]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-01.04.21:838][275]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.27-01.04.21:866][275]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.08.27-01.04.21:867][275]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-01.04.21:867][275]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.27-01.04.21:874][275]LogBlueprintEditor: Perf: 0.6 total seconds to load all 9 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.08.27-01.04.21:874][275]LogBlueprintEditor: Perf: 0.6 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.08.27-01.04.21:910][275]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:428][275]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.04.23:563][275]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.27-01.04.23:840][275]LogRenderer: Reallocating scene render targets to support 1120x884 Format 9 NumSamples 1 (Frame:1).
+[2021.08.27-01.04.23:886][275]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.27-01.04.23:907][275]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.27-01.04.27:108][563]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.27-01.04.27:138][564]LogRenderer: Reallocating scene render targets to support 1144x884 Format 9 NumSamples 1 (Frame:7).
+[2021.08.27-01.04.28:283][659]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.27-01.04.29:708][766]LogSlate: Window 'ALS_AnimBP' being destroyed
+[2021.08.27-01.04.54:445][439]Cmd: DELETE
+[2021.08.27-01.04.54:445][439]Cmd: ACTOR DELETE
+[2021.08.27-01.04.54:458][439]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.08.27-01.04.54:516][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.08.27-01.04.54:518][439]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2021.08.27-01.05.03:089][455]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Vitima_Base_V1)
+[2021.08.27-01.05.08:647][ 81]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Vitima_Base_V2)
+[2021.08.27-01.05.52:927][331]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.08.27-01.05.54:734][545]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.27-01.06.00:630][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.27-01.06.07:737][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.27-01.06.09:287][209]LogTemp: Repeating last play command: Simulate
+[2021.08.27-01.06.09:294][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-01.06.09:294][209]BlueprintLog: Warning: Blueprint failed to compile:  ALS_AnimBP
+[2021.08.27-01.06.09:295][209]LogCustomDialog: Dialog displayed:
+[2021.08.27-01.06.11:490][209]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.08.27-01.06.14:918][575]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.06.14:923][575]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.06.21:633][249]BlueprintLog: New page: Compile ALS_AnimBP
+[2021.08.27-01.06.21:785][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_r  - Bone VB LHS_ik_hand_r not found in Skeleton
+[2021.08.27-01.06.21:785][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_l  - Bone VB RHS_ik_hand_l not found in Skeleton
+[2021.08.27-01.06.21:808][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:808][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:808][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:808][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:809][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:809][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:824][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:834][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.06.21:978][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.06.21:978][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.06.21:978][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.06.21:978][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.06.21:979][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.06.21:980][249]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.06.21:995][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_31 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:995][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_28 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:995][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_10 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:996][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:996][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_7 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:996][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_8 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:996][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_6 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.21:996][249]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:283][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:284][249]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.06.22:325][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.27-01.08.20:910][823]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Personagem_Principal/Personagem_Principal_Rigado2.Personagem_Principal_Rigado2
+[2021.08.27-01.08.20:916][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.08.27:326][491]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Personagem_Principal/Personagem_Principal_Skeleton.Personagem_Principal_Skeleton
+[2021.08.27-01.08.27:329][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.08.30:061][752]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Personagem_Principal/Animations/Personagem_Principal_N_Lean.Personagem_Principal_N_Lean
+[2021.08.27-01.08.30:064][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.08.30:392][752]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.27-01.08.30:623][772]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Personagem_Principal/Animations/Personagem_Principal_AnimBP.Personagem_Principal_AnimBP
+[2021.08.27-01.08.30:628][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.08.31:434][772]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.27-01.09.25:050][329]LogTemp: Repeating last play command: Simulate
+[2021.08.27-01.09.25:057][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-01.09.25:057][329]BlueprintLog: Warning: Blueprint failed to compile:  ALS_AnimBP
+[2021.08.27-01.09.25:057][329]LogCustomDialog: Dialog displayed:
+[2021.08.27-01.09.26:281][329]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.08.27-01.09.27:221][422]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.09.27:223][422]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.13.45:787][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.08.27-01.14.43:533][508]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-01.16.01:938][918]LogSlate: Window 'Save Mapping' being destroyed
+[2021.08.27-01.16.08:485][566]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/ALS_Mannequin_Skeleton95C88C2D4C0739E7BDFCDE838DBDD44E.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.uasset'
+[2021.08.27-01.16.08:506][566]AssetCheck: New page: Asset Save: ALS_Mannequin_Skeleton
+[2021.08.27-01.16.08:507][566]LogContentValidation: Display: Validating Skeleton /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton
+[2021.08.27-01.16.09:257][639]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Saved/ALS_Mannequin_Skeleton551DB6FE461FF4E5F72AB88DA3926B72.tmp' to '../../../../../../Users/User/Documents/GitHub/City-of-Fear-Official-Version/CityOfFear/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.uasset'
+[2021.08.27-01.16.09:338][639]AssetCheck: New page: Asset Save: ALS_Mannequin_Skeleton
+[2021.08.27-01.16.09:338][639]LogContentValidation: Display: Validating Skeleton /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton
+[2021.08.27-01.16.12:511][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-01.16.12:511][945]BlueprintLog: Warning: Blueprint failed to compile:  ALS_AnimBP
+[2021.08.27-01.16.12:511][945]LogCustomDialog: Dialog displayed:
+[2021.08.27-01.16.16:106][945]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.08.27-01.16.18:553][168]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.16.18:557][168]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-01.18.44:696][425]LogLinker: Warning: Failed to load '/Game/Personagem_Principal/Personagem_Principla_Mesh': Can't find file.
+[2021.08.27-01.18.44:696][425]LogLinker: Warning: Failed to load '/Game/Personagem_Principal/Personagem_Principla_Mesh': Can't find file.
+[2021.08.27-01.18.44:696][425]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Personagem_Principal/Personagem_Principla_Mesh.Personagem_Principla_Mesh'
+[2021.08.27-01.20.36:308][561]BlueprintLog: New page: Compile ALS_AnimBP
+[2021.08.27-01.20.36:464][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_r  - Bone VB LHS_ik_hand_r not found in Skeleton
+[2021.08.27-01.20.36:464][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_l  - Bone VB RHS_ik_hand_l not found in Skeleton
+[2021.08.27-01.20.36:505][561]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.20.36:515][561]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.08.27-01.20.36:665][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.20.36:665][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_r_Offset  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.20.36:665][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.20.36:665][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_foot_l_Offset  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB ik_knee_target_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_foot_r_Offset not found in Skeleton
+[2021.08.27-01.20.36:666][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_r  - Bone VB ik_knee_target_r not found in Skeleton
+[2021.08.27-01.20.36:667][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_foot_l_Offset not found in Skeleton
+[2021.08.27-01.20.36:668][561]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Two Bone IK - Bone: foot_l  - Bone VB ik_knee_target_l not found in Skeleton
+[2021.08.27-01.20.36:683][561]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_31 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.20.36:683][561]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\GitHub\City-of-Fear-Official-Version\CityOfFear\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_28 while searching for node links - likely due to the node having outstanding errors.
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:941][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:942][561]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.20.36:986][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.27-01.23.18:938][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.08.27-01.23.20:529][515]LogSlate: Window 'Save Content' being destroyed
+[2021.08.27-01.23.37:651][184]Cmd: TRANSACTION UNDO
+[2021.08.27-01.23.37:651][184]LogEditorTransaction: Undo Select Rig
+[2021.08.27-01.23.42:144][184]LogSlate: Window 'Message' being destroyed
+[2021.08.27-01.23.42:153][184]Message dialog closed, result: Cancel, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.08.27-01.23.42:157][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:161][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.08.27-01.23.42:193][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:197][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:199][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:223][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.42:293][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.27-01.23.50:981][876]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.23.50:981][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.23.51:133][876]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.23.51:133][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:319][ 40]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.24.29:319][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:370][ 40]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.24.29:370][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:444][ 40]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.24.29:445][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:466][ 40]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.24.29:466][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:475][ 40]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-01.24.29:475][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-01.24.29:670][ 40]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.27-01.25.01:882][322]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.27-01.25.01:882][322]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
